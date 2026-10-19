@@ -1,0 +1,2871 @@
+{
+  "fetched": "2026-10-12",
+  "calendar": "Gregorian (New Calendar), orthocal.info default jurisdiction",
+  "days": [
+    {
+      "date": "2026-10-11",
+      "titles": [
+        "19th Sunday after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "No Fast",
+      "tone": 2,
+      "saints": [
+        "Apostle Philip of the Seventy",
+        "Ethelburga, Abbess of Barking",
+        "Synaxis of the Holy Startsi of Optina Monastery",
+        "Saint Theophanes the Hymnographer (the Branded) (847)",
+        "Our Holy Father Philotheos Kokkinos,Patriarch of Constantinople (1379)"
+      ],
+      "readings": [
+        {
+          "source": "Vespers",
+          "display": "Genesis 14.14-20",
+          "book": 0,
+          "start": [
+            14,
+            14
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Deuteronomy 1.8-11, 15-17",
+          "book": 4,
+          "start": [
+            1,
+            8
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Deuteronomy 10.14-21",
+          "book": 4,
+          "start": [
+            10,
+            14
+          ]
+        },
+        {
+          "source": "8th Matins Gospel",
+          "display": "John 20.11-18",
+          "book": 42,
+          "start": [
+            20,
+            11
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "2 Corinthians 11.31-12.9",
+          "book": 46,
+          "start": [
+            11,
+            31
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Hebrews 13.7-16",
+          "book": 57,
+          "start": [
+            13,
+            7
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 7.11-16",
+          "book": 41,
+          "start": [
+            7,
+            11
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "John 17.1-13",
+          "book": 42,
+          "start": [
+            17,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "titles": [
+        "Monday of the 20th week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "No Fast",
+      "tone": 2,
+      "saints": [
+        "Martyrs Probus, Tarachus and Andronicus",
+        "St Symeon the New Theologian (1022)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "Philippians 2.12-16",
+          "book": 49,
+          "start": [
+            2,
+            12
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 7.36-50",
+          "book": 41,
+          "start": [
+            7,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "titles": [
+        "Tuesday of the 20th week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "No Fast",
+      "tone": 2,
+      "saints": [
+        "Martyrs Carpus, Papylus, Agathodorus and Agathonica, at Pergamus",
+        "Benjamin the Deacon",
+        "Florentios the Martyr of Thessaloniki",
+        "Holy Martyr Zlata (Chryse) (1796)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "Philippians 2.16-23",
+          "book": 49,
+          "start": [
+            2,
+            16
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 8.1-3",
+          "book": 41,
+          "start": [
+            8,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "titles": [
+        "Wednesday of the 20th week after Pentecost"
+      ],
+      "feast": "Black squigg (6-stich typikon symbol)",
+      "fast": "Fast",
+      "tone": 2,
+      "saints": [
+        "Ven. Parasceva of Serbia",
+        "Holy Martyrs Nazarius, Gervasius, Protasius, and Celsus of Milan (1st c.)",
+        "Saint Cosmas the Hymnographer (8th c.)",
+        "Saint Nicholas the Pious (Sviatosha), Prince of Chernigov (1143)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "Philippians 2.24-30",
+          "book": 49,
+          "start": [
+            2,
+            24
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 8.22-25",
+          "book": 41,
+          "start": [
+            8,
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "titles": [
+        "Thursday of the 20th week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "No Fast",
+      "tone": 2,
+      "saints": [
+        "Ven. Euthymius the New of Thessalonica",
+        "Savinos the Bishop of Catania",
+        "Holy Hieromartyr Lucian, Presbyter of the Church of Antioch (312)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "Philippians 3.1-8",
+          "book": 49,
+          "start": [
+            3,
+            1
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 9.7-11",
+          "book": 41,
+          "start": [
+            9,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "titles": [
+        "Friday of the 20th week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "Fast",
+      "tone": 2,
+      "saints": [
+        "Martyr Longinus the Centurion",
+        "Our Venerable Father Gall, Enlightener of Switzerland (640)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "Philippians 3.8-19",
+          "book": 49,
+          "start": [
+            3,
+            8
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 9.12-18",
+          "book": 41,
+          "start": [
+            9,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "titles": [
+        "Saturday of the 20th week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "No Fast",
+      "tone": 2,
+      "saints": [
+        "Prophet Hosea",
+        "Monastic Martyr Andrew of Crete",
+        "Holy Martyrs Cosmas and Damian, the Unmercenaries of Cilicia (4th c.)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "2 Corinthians 1.8-11",
+          "book": 46,
+          "start": [
+            1,
+            8
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 6.1-10",
+          "book": 41,
+          "start": [
+            6,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "titles": [
+        "20th Sunday after Pentecost"
+      ],
+      "feast": "Red cross (polyeleos typikon symbol)",
+      "fast": "No Fast",
+      "tone": 3,
+      "saints": [
+        "Marinos the Martyr"
+      ],
+      "readings": [
+        {
+          "source": "Vespers",
+          "display": "1 John 1.1-7",
+          "book": 61,
+          "start": [
+            1,
+            1
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "James 1.1-12",
+          "book": 58,
+          "start": [
+            1,
+            1
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Jude 1-7, 17-25",
+          "book": 64,
+          "start": [
+            1,
+            1
+          ]
+        },
+        {
+          "source": "9th Matins Gospel",
+          "display": "John 20.19-31",
+          "book": 42,
+          "start": [
+            20,
+            19
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Galatians 1.11-19",
+          "book": 47,
+          "start": [
+            1,
+            11
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Colossians 4.5-9, 14, 18",
+          "book": 50,
+          "start": [
+            4,
+            5
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 8.5-15",
+          "book": 41,
+          "start": [
+            8,
+            5
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 10.16-21",
+          "book": 41,
+          "start": [
+            10,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "titles": [
+        "Monday of the 21st week after Pentecost"
+      ],
+      "feast": "Black squigg (6-stich typikon symbol)",
+      "fast": "No Fast",
+      "tone": 3,
+      "saints": [
+        "Prophet Joel",
+        "Relics Ven. John of Rila",
+        "Righteous John, Wonderworker of Kronstadt (1908).",
+        "Holy Martyr Varus and those with him (304)",
+        "Holy Hieromartyr Sadoth (Shahdost) and his 128 companions (342)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "Philippians 4.10-23",
+          "book": 49,
+          "start": [
+            4,
+            10
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 9.18-22",
+          "book": 41,
+          "start": [
+            9,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "titles": [
+        "Tuesday of the 21st week after Pentecost"
+      ],
+      "feast": "Black squigg (6-stich typikon symbol)",
+      "fast": "No Fast",
+      "tone": 3,
+      "saints": [
+        "Greatmartyr Artemius at Antioch",
+        "Ven. Matrona of Chios",
+        "St Gerasimus the New, ascetic of Cephalonia (1579)",
+        "St Jonah, Bishop of Manchuria (1925) (October 7 OC)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "Colossians 1.1-2, 7-11",
+          "book": 50,
+          "start": [
+            1,
+            1
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 9.23-27",
+          "book": 41,
+          "start": [
+            9,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "titles": [
+        "Wednesday of the 21st week after Pentecost"
+      ],
+      "feast": "Black squigg (6-stich typikon symbol)",
+      "fast": "Fast",
+      "tone": 3,
+      "saints": [
+        "Ven. Hilarion the Great",
+        "Righteous Philotheus",
+        "Holy New Martyr John of Monembasia (1773)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "Colossians 1.18-23",
+          "book": 50,
+          "start": [
+            1,
+            18
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 9.44-50",
+          "book": 41,
+          "start": [
+            9,
+            44
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "titles": [
+        "Thursday of the 21st week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "No Fast",
+      "tone": 3,
+      "saints": [
+        "St Abercius, Equal-to-the-Apostles",
+        "Venerable Lot of Egypt (5th c.)",
+        "Holy Seven Youths of Ephesus"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "Colossians 1.24-29",
+          "book": 50,
+          "start": [
+            1,
+            24
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 9.49-56",
+          "book": 41,
+          "start": [
+            9,
+            49
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "titles": [
+        "Friday of the 21st week after Pentecost"
+      ],
+      "feast": "Red squigg (doxology typikon symbol)",
+      "fast": "Fast",
+      "tone": 3,
+      "saints": [
+        "Our Righteous Father Ignatius, Patriarch of Constantinople",
+        "Saint Macarius the Roman of Mesopotamia (?)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "Colossians 2.1-7",
+          "book": 50,
+          "start": [
+            2,
+            1
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Galatians 1.11-19",
+          "book": 47,
+          "start": [
+            1,
+            11
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 10.1-15",
+          "book": 41,
+          "start": [
+            10,
+            1
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Matthew 13.54-58",
+          "book": 39,
+          "start": [
+            13,
+            54
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "titles": [
+        "Saturday of the 21st week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "No Fast",
+      "tone": 3,
+      "saints": [
+        "Martyr Arethas and Companions"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "2 Corinthians 3.12-18",
+          "book": 46,
+          "start": [
+            3,
+            12
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "1 Thessalonians 4.13-17",
+          "book": 51,
+          "start": [
+            4,
+            13
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 7.1-10",
+          "book": 41,
+          "start": [
+            7,
+            1
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "John 5.24-30",
+          "book": 42,
+          "start": [
+            5,
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "titles": [
+        "21st Sunday after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "No Fast",
+      "tone": 4,
+      "saints": [
+        "Martyrs Marcian and Martyrius the Notaries",
+        "St Tabitha of Joppa"
+      ],
+      "readings": [
+        {
+          "source": "10th Matins Gospel",
+          "display": "John 21.1-14",
+          "book": 42,
+          "start": [
+            21,
+            1
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Galatians 2.16-20",
+          "book": 47,
+          "start": [
+            2,
+            16
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 16.19-31",
+          "book": 41,
+          "start": [
+            16,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "titles": [
+        "Monday of the 22nd week after Pentecost"
+      ],
+      "feast": "Red cross (polyeleos typikon symbol)",
+      "fast": "No Fast, Fish, Wine and Oil are Allowed",
+      "tone": 4,
+      "saints": [],
+      "readings": [
+        {
+          "source": "Vespers",
+          "display": "Composite 16 - Isaiah 63.15-64.5, 8-9",
+          "book": null,
+          "start": [
+            1,
+            1
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Jeremiah 2.2-12",
+          "book": 23,
+          "start": [
+            2,
+            2
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Wisdom of Solomon 4.7-15",
+          "book": null,
+          "start": [
+            4,
+            7
+          ]
+        },
+        {
+          "source": "Matins Gospel",
+          "display": "Matthew 10.16-22",
+          "book": 39,
+          "start": [
+            10,
+            16
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Colossians 2.13-20",
+          "book": 50,
+          "start": [
+            2,
+            13
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Hebrews 12.6-13, 25-27",
+          "book": 57,
+          "start": [
+            12,
+            6
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "2 Timothy 2.1-10",
+          "book": 54,
+          "start": [
+            2,
+            1
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 10.22-24",
+          "book": 41,
+          "start": [
+            10,
+            22
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Matthew 8.23-27",
+          "book": 39,
+          "start": [
+            8,
+            23
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "John 15.17-16.2",
+          "book": 42,
+          "start": [
+            15,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "titles": [
+        "Tuesday of the 22nd week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "No Fast",
+      "tone": 4,
+      "saints": [
+        "Martyr Nestor of Thessalonica",
+        "St Procla, the wife of Pontius Pilate.",
+        "Our Venerable Father Demetrius of Basarabov (Romania) (13th c.)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "Colossians 2.20-3.3",
+          "book": 50,
+          "start": [
+            2,
+            20
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 11.1-10",
+          "book": 41,
+          "start": [
+            11,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "titles": [
+        "Wednesday of the 22nd week after Pentecost"
+      ],
+      "feast": "Red squigg (doxology typikon symbol)",
+      "fast": "Fast",
+      "tone": 4,
+      "saints": [
+        "Martyrs Terence, Neonila and Children",
+        "St Arsenius of Serbia",
+        "Rep. Ven. Job of Pochaev",
+        "St Dimitri (Demetrius) of Rostov (1709)",
+        "Our Holy Father Firmilian, Bishop of Caesarea (268)",
+        "Holy Hieromartyr Cyriacus, Bishop of Jerusalem, and his mother Anna (4th c.)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "Colossians 3.17-4.1",
+          "book": 50,
+          "start": [
+            3,
+            17
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 11.9-13",
+          "book": 41,
+          "start": [
+            11,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "titles": [
+        "Thursday of the 22nd week after Pentecost"
+      ],
+      "feast": "Red squigg (doxology typikon symbol)",
+      "fast": "No Fast",
+      "tone": 4,
+      "saints": [
+        "Martyr Anastasia the Roman",
+        "Ven. Avram of Rostov",
+        "Our Holy Father Abramius (366) and his niece Mary (371) of Mesopotamia"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "Colossians 4.2-9",
+          "book": 50,
+          "start": [
+            4,
+            2
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 11.14-23",
+          "book": 41,
+          "start": [
+            11,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "titles": [
+        "Friday of the 22nd week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "Fast",
+      "tone": 4,
+      "saints": [
+        "Hieromartyr Zenobius and His Sister Zenobia",
+        "Holy Apostle Cleopas",
+        "St Joseph I, Patriarch of Constantinople (1283)",
+        "Holy Martyr Hermengild, Prince of the Visigoths (486)",
+        "Holy Hieromartyr John Kochurov, First Hieromartyr of the Russian Revolution (1917)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "Colossians 4.10-18",
+          "book": 50,
+          "start": [
+            4,
+            10
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 11.23-26",
+          "book": 41,
+          "start": [
+            11,
+            23
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "titles": [
+        "Saturday of the 22nd week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "No Fast",
+      "tone": 4,
+      "saints": [
+        "Holy Apostles Stachys, Apelles, Amplias, Urban, Narcissus and Aristobolus.",
+        "Hieromartyr John Kochurov, Protopresbyter of Chicago and Tsarskoye Selo (1917)",
+        "New Martyr Nicholas of Chios (1754)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "2 Corinthians 5.1-10",
+          "book": 46,
+          "start": [
+            5,
+            1
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Hebrews 13.7-16",
+          "book": 57,
+          "start": [
+            13,
+            7
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 8.16-21",
+          "book": 41,
+          "start": [
+            8,
+            16
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 12.32-40",
+          "book": 41,
+          "start": [
+            12,
+            32
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "John 10.9-16",
+          "book": 42,
+          "start": [
+            10,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "titles": [
+        "22nd Sunday after Pentecost"
+      ],
+      "feast": "Black squigg (6-stich typikon symbol)",
+      "fast": "No Fast",
+      "tone": 5,
+      "saints": [
+        "Unmercenaries and Wonderworkers Cosmas and Damian",
+        "St Theodota, Mother of Cosmas and Damian",
+        "Holy New Martyr Helen of Sinope (18th c.)"
+      ],
+      "readings": [
+        {
+          "source": "11th Matins Gospel",
+          "display": "John 21.15-25",
+          "book": 42,
+          "start": [
+            21,
+            15
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Galatians 6.11-18",
+          "book": 47,
+          "start": [
+            6,
+            11
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 8.26-39",
+          "book": 41,
+          "start": [
+            8,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "titles": [
+        "Monday of the 23rd week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "No Fast",
+      "tone": 5,
+      "saints": [
+        "Martyrs Acindynus, Pegasius, Aphthonius, Elpidophorus, and Anempodistus of Persia"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Thessalonians 1.1-5",
+          "book": 51,
+          "start": [
+            1,
+            1
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 11.29-33",
+          "book": 41,
+          "start": [
+            11,
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "titles": [
+        "Tuesday of the 23rd week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "No Fast",
+      "tone": 5,
+      "saints": [
+        "Martyrs Acepsimus, Joseph, Aithalas",
+        "Holy Virgin Martyr Winefride of Treffynnon (Holywell), Wales (7th c.)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Thessalonians 1.6-10",
+          "book": 51,
+          "start": [
+            1,
+            6
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 11.34-41",
+          "book": 41,
+          "start": [
+            11,
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "titles": [
+        "Wednesday of the 23rd week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "Fast",
+      "tone": 5,
+      "saints": [
+        "Ven. Joannicus the Great",
+        "The Holy Hieromartyrs Nicander, Bishop of Myra, and Hermias the Presbyter"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Thessalonians 2.1-8",
+          "book": 51,
+          "start": [
+            2,
+            1
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 11.42-46",
+          "book": 41,
+          "start": [
+            11,
+            42
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "titles": [
+        "Thursday of the 23rd week after Pentecost"
+      ],
+      "feast": "Red squigg (doxology typikon symbol)",
+      "fast": "No Fast",
+      "tone": 5,
+      "saints": [
+        "Martyrs Galacteon and Wife Epistemis",
+        "Repose St Jonah of Novgorod",
+        "Holy Apostles Patrobas, Hermas, Linus, Gaius and Philologus",
+        "Our Holy Father Gregory the Confessor, Patriarch of Alexandria (early 9th c.)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Thessalonians 2.9-14",
+          "book": 51,
+          "start": [
+            2,
+            9
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 11.47-12.1",
+          "book": 41,
+          "start": [
+            11,
+            47
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "titles": [
+        "Friday of the 23rd week after Pentecost"
+      ],
+      "feast": "Black squigg (6-stich typikon symbol)",
+      "fast": "Fast",
+      "tone": 5,
+      "saints": [
+        "St Paul the Confessor of Constantinople",
+        "Ven. Luke of Sicily (Taormina)",
+        "Rep. St Herman, Archbishop of Kazan"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Thessalonians 2.14-19",
+          "book": 51,
+          "start": [
+            2,
+            14
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 12.2-12",
+          "book": 41,
+          "start": [
+            12,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "titles": [
+        "Saturday of the 23rd week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "No Fast",
+      "tone": 5,
+      "saints": [
+        "St Hieron and the Holy 33 Martyrs of Melitene",
+        "Lazarus the Wonderworker",
+        "Saint Willibrord, first Bishop of Utrecht and Apostle of Holland (739)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "2 Corinthians 8.1-5",
+          "book": 46,
+          "start": [
+            8,
+            1
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 9.1-6",
+          "book": 41,
+          "start": [
+            9,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "titles": [
+        "23rd Sunday after Pentecost"
+      ],
+      "feast": "Red cross half-circle (vigil typikon symbol)",
+      "fast": "No Fast, Fish, Wine and Oil are Allowed",
+      "tone": 6,
+      "saints": [],
+      "readings": [
+        {
+          "source": "Vespers",
+          "display": "Isaiah 43.9-14",
+          "book": 22,
+          "start": [
+            43,
+            9
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Joshua 5.13-15",
+          "book": 5,
+          "start": [
+            5,
+            13
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Wisdom of Solomon 3.1-9",
+          "book": null,
+          "start": [
+            3,
+            1
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Judges 6.2, 7, 11-24",
+          "book": 6,
+          "start": [
+            6,
+            2
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Wisdom of Solomon 5.15-6.3",
+          "book": null,
+          "start": [
+            5,
+            15
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Isaiah 14.7-20",
+          "book": 22,
+          "start": [
+            14,
+            7
+          ]
+        },
+        {
+          "source": "1st Matins Gospel",
+          "display": "Matthew 28.16-20",
+          "book": 39,
+          "start": [
+            28,
+            16
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Ephesians 2.4-10",
+          "book": 48,
+          "start": [
+            2,
+            4
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "1 Corinthians 12.27-13.8",
+          "book": 45,
+          "start": [
+            12,
+            27
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Hebrews 2.2-10",
+          "book": 57,
+          "start": [
+            2,
+            2
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 8.41-56",
+          "book": 41,
+          "start": [
+            8,
+            41
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Matthew 10.1, 5-8",
+          "book": 39,
+          "start": [
+            10,
+            1
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 10.16-21",
+          "book": 41,
+          "start": [
+            10,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "titles": [
+        "Monday of the 24th week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "No Fast",
+      "tone": 6,
+      "saints": [
+        "Martyrs Onesiphorus and Porphyrius",
+        "Our Father among the Saints Nectarius (Nektarios), bishop of Pentapolis, Wonderworker, and founder of the Monastery of the Holy Trinity on Aegina (1920).",
+        "Our Venerable Father John the Dwarf (John the Short) (4th c.)",
+        "Our Holy Mother Matrona (492)",
+        "Saint Symeon Metaphrastes (960)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Thessalonians 2.20-3.8",
+          "book": 51,
+          "start": [
+            2,
+            20
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 12.13-15, 22-31",
+          "book": 41,
+          "start": [
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "titles": [
+        "Tuesday of the 24th week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "No Fast",
+      "tone": 6,
+      "saints": [
+        "Apostles of the 70 Erastus, Olympas, Herodion, Sosipater, Quartus, Tertius",
+        "Our Venerable Father Arsenios of Cappadocia, the Wonderworker (1924)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Thessalonians 3.9-13",
+          "book": 51,
+          "start": [
+            3,
+            9
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 12.42-48",
+          "book": 41,
+          "start": [
+            12,
+            42
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "titles": [
+        "Wednesday of the 24th week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "Fast",
+      "tone": 6,
+      "saints": [
+        "Martyrs Menas, Victor and Vincent",
+        "Our Righteous Father Theodore the Studite (826)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Thessalonians 4.1-12",
+          "book": 51,
+          "start": [
+            4,
+            1
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 12.48-59",
+          "book": 41,
+          "start": [
+            12,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "titles": [
+        "Thursday of the 24th week after Pentecost"
+      ],
+      "feast": "Black squigg (6-stich typikon symbol)",
+      "fast": "No Fast",
+      "tone": 6,
+      "saints": [
+        "St John the Merciful, Patriarch of Alexandria",
+        "Our Father among the Saints Martin, Bishop of Tours (397)",
+        "Our Holy Father Nilus the Ascetic of Sinai (430)",
+        "St Nilus the Myrrh-Gusher of Mt Athos (1651)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Thessalonians 5.1-8",
+          "book": 51,
+          "start": [
+            5,
+            1
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 13.1-9",
+          "book": 41,
+          "start": [
+            13,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "titles": [
+        "Friday of the 24th week after Pentecost"
+      ],
+      "feast": "Red cross half-circle (vigil typikon symbol)",
+      "fast": "Fast, Fish, Wine and Oil are Allowed",
+      "tone": 6,
+      "saints": [],
+      "readings": [
+        {
+          "source": "Vespers",
+          "display": "Composite 2 - Proverbs 10, 3, 8",
+          "book": null,
+          "start": [
+            1,
+            1
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Composite 4 - Proverbs 10; Wisdom of Solomon 6, 7, 8, 9",
+          "book": null,
+          "start": [
+            1,
+            1
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Composite 5 - Wisdom of Solomon 4, 6, 7, 2",
+          "book": null,
+          "start": [
+            1,
+            1
+          ]
+        },
+        {
+          "source": "Matins Gospel",
+          "display": "John 10.1-9",
+          "book": 42,
+          "start": [
+            10,
+            1
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "1 Thessalonians 5.9-13, 24-28",
+          "book": 51,
+          "start": [
+            5,
+            9
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Hebrews 7.26-8.2",
+          "book": 57,
+          "start": [
+            7,
+            26
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 13.31-35",
+          "book": 41,
+          "start": [
+            13,
+            31
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "John 10.9-16",
+          "book": 42,
+          "start": [
+            10,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "titles": [
+        "Saturday of the 24th week after Pentecost"
+      ],
+      "feast": "Red cross (polyeleos typikon symbol)",
+      "fast": "No Fast, Wine and Oil are Allowed",
+      "tone": 6,
+      "saints": [
+        "Holy Great New Martyr Constantine of Hydra",
+        "St Gregory Palamas (1359)",
+        "Pious Emperor Justinian and His Wife Theodora (565)"
+      ],
+      "readings": [
+        {
+          "source": "Vespers",
+          "display": "1 Peter 1.1-2.6",
+          "book": 59,
+          "start": [
+            1,
+            1
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "1 Peter 2.21-3.9",
+          "book": 59,
+          "start": [
+            2,
+            21
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "1 Peter 4.1-11",
+          "book": 59,
+          "start": [
+            4,
+            1
+          ]
+        },
+        {
+          "source": "Matins Gospel",
+          "display": "John 21.15-25",
+          "book": 42,
+          "start": [
+            21,
+            15
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "2 Corinthians 11.1-6",
+          "book": 46,
+          "start": [
+            11,
+            1
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "1 Corinthians 4.9-16",
+          "book": 45,
+          "start": [
+            4,
+            9
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 9.37-43",
+          "book": 41,
+          "start": [
+            9,
+            37
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "John 1.43-51",
+          "book": 42,
+          "start": [
+            1,
+            43
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "titles": [
+        "24th Sunday after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "Nativity Fast, Fish, Wine and Oil are Allowed",
+      "tone": 7,
+      "saints": [
+        "Begin Nativity Fast",
+        "Guria, Shamuna, and Habib, Martyrs and Confessors of Edessa",
+        "Our Venerable Father Paisius Velichkovsky (1794)"
+      ],
+      "readings": [
+        {
+          "source": "2nd Matins Gospel",
+          "display": "Mark 16.1-8",
+          "book": 40,
+          "start": [
+            16,
+            1
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Ephesians 2.14-22",
+          "book": 48,
+          "start": [
+            2,
+            14
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 10.25-37",
+          "book": 41,
+          "start": [
+            10,
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "titles": [
+        "Monday of the 25th week after Pentecost"
+      ],
+      "feast": "Red cross circle (great feast typikon symbol)",
+      "fast": "Nativity Fast, Fish, Wine and Oil are Allowed",
+      "tone": 7,
+      "saints": [],
+      "readings": [
+        {
+          "source": "Vespers",
+          "display": "1 Peter 1.1-2.6",
+          "book": 59,
+          "start": [
+            1,
+            1
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "1 Peter 2.21-3.9",
+          "book": 59,
+          "start": [
+            2,
+            21
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "1 Peter 4.1-11",
+          "book": 59,
+          "start": [
+            4,
+            1
+          ]
+        },
+        {
+          "source": "Matins Gospel",
+          "display": "John 21.15-25",
+          "book": 42,
+          "start": [
+            21,
+            15
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "1 Corinthians 4.9-16",
+          "book": 45,
+          "start": [
+            4,
+            9
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "2 Thessalonians 1.1-10",
+          "book": 52,
+          "start": [
+            1,
+            1
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Matthew 9.9-13",
+          "book": 39,
+          "start": [
+            9,
+            9
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 14.12-15",
+          "book": 41,
+          "start": [
+            14,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "titles": [
+        "Tuesday of the 25th week after Pentecost"
+      ],
+      "feast": "Red squigg (doxology typikon symbol)",
+      "fast": "Nativity Fast, Wine and Oil are Allowed",
+      "tone": 7,
+      "saints": [
+        "St Gregory the Wonderworker",
+        "Ven. Nikon of Radonezh",
+        "Our Holy Father Longinus (4th or 5th c.)",
+        "Our Holy Mother Hilda, Abbess of Whitby (680)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "2 Thessalonians 1.10-2.2",
+          "book": 52,
+          "start": [
+            1,
+            10
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 14.25-35",
+          "book": 41,
+          "start": [
+            14,
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "titles": [
+        "Wednesday of the 25th week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "Nativity Fast",
+      "tone": 7,
+      "saints": [
+        "Martyrs Platon and Roman",
+        "Zaccheus the Deacon",
+        "Holy Martyr Romanus and the holy child who declared for Christ (305)",
+        "Holy New Martyr Anastasius of Epirus (1750), and Daniel, whom he converted"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "2 Thessalonians 2.1-12",
+          "book": 52,
+          "start": [
+            2,
+            1
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 15.1-10",
+          "book": 41,
+          "start": [
+            15,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "titles": [
+        "Thursday of the 25th week after Pentecost"
+      ],
+      "feast": "Red squigg (doxology typikon symbol)",
+      "fast": "Nativity Fast, Wine and Oil are Allowed",
+      "tone": 7,
+      "saints": [
+        "Prophet Obadiah",
+        "Ven. Barlaam and Joasaph",
+        "Martyr Heliodorus",
+        "Our Holy Father Philaret, Metropolitan of Moscow (1867)",
+        "Holy Martyr Barlaam of Antioch (304)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "2 Thessalonians 2.13-3.5",
+          "book": 52,
+          "start": [
+            2,
+            13
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 16.1-9",
+          "book": 41,
+          "start": [
+            16,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "titles": [
+        "Friday of the 25th week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "Nativity Fast",
+      "tone": 7,
+      "saints": [
+        "Ven. Gregory Decapolites",
+        "Our Holy Father Proclus, Archbishop of Constantinople (447)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "2 Thessalonians 3.6-18",
+          "book": 52,
+          "start": [
+            3,
+            6
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 16.15-18, 17.1-4",
+          "book": 41,
+          "start": [
+            16,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "titles": [
+        "Saturday of the 25th week after Pentecost"
+      ],
+      "feast": "Major feast Theotokos",
+      "fast": "Nativity Fast, Fish, Wine and Oil are Allowed",
+      "tone": 7,
+      "saints": [],
+      "readings": [
+        {
+          "source": "Vespers",
+          "display": "​Composite 17 - Exodus 40:1-5, 9-10, 16, 34-35",
+          "book": 1,
+          "start": [
+            40,
+            1
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "​Composite 18 - 3 [1] Kings 8:1, 3-7, 9-11",
+          "book": 10,
+          "start": [
+            8,
+            1
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Ezekiel 43.27-44.4",
+          "book": 25,
+          "start": [
+            43,
+            27
+          ]
+        },
+        {
+          "source": "Matins Gospel",
+          "display": "Luke 1.39-49, 56",
+          "book": 41,
+          "start": [
+            1,
+            39
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Hebrews 9.1-7",
+          "book": 57,
+          "start": [
+            9,
+            1
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Galatians 1.3-10",
+          "book": 47,
+          "start": [
+            1,
+            3
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 10.38-42, 11.27-28",
+          "book": 41,
+          "start": [
+            10,
+            38
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 9.57-62",
+          "book": 41,
+          "start": [
+            9,
+            57
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "titles": [
+        "25th Sunday after Pentecost"
+      ],
+      "feast": "Black squigg (6-stich typikon symbol)",
+      "fast": "Nativity Fast, Fish, Wine and Oil are Allowed",
+      "tone": 8,
+      "saints": [
+        "Apostles of the 70 Philemon, Archippus, Apphia, and Onesimus",
+        "St Michael, Prince of Tver",
+        "Kallistos Xanthopoulos, Patriarch of Constantinople",
+        "Holy Martyrs Cecilia, Valerian, Tiburtius and Maximus, at Rome (3rd c.)",
+        "Holy Prince and Passion-Bearer Peter Yaropolk (1086)"
+      ],
+      "readings": [
+        {
+          "source": "3rd Matins Gospel",
+          "display": "Mark 16.9-20",
+          "book": 40,
+          "start": [
+            16,
+            9
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Ephesians 4.1-6",
+          "book": 48,
+          "start": [
+            4,
+            1
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 12.16-21",
+          "book": 41,
+          "start": [
+            12,
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "titles": [
+        "Monday of the 26th week after Pentecost"
+      ],
+      "feast": "Red squigg (doxology typikon symbol)",
+      "fast": "Nativity Fast",
+      "tone": 8,
+      "saints": [
+        "Gregory, Bishop of Agrigentum",
+        "Sisinios the Confessor",
+        "Our Holy Father Amphilocus, Bishop of Iconium (395)",
+        "St Columban, Abbot of Luxeuil (615)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Timothy 1.1-7",
+          "book": 53,
+          "start": [
+            1,
+            1
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Galatians 5.22-6.2",
+          "book": 47,
+          "start": [
+            5,
+            22
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 17.20-25",
+          "book": 41,
+          "start": [
+            17,
+            20
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Matthew 11.27-30",
+          "book": 39,
+          "start": [
+            11,
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "titles": [
+        "Tuesday of the 26th week after Pentecost"
+      ],
+      "feast": "Black squigg (6-stich typikon symbol)",
+      "fast": "Nativity Fast, Wine and Oil are Allowed",
+      "tone": 8,
+      "saints": [
+        "Greatmartyr Catherine of Alexandria",
+        "Holy Martyr Mercurius of Smolensk (1238)",
+        "Great Martyr Mercurius (ca. 259)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Timothy 1.8-14",
+          "book": 53,
+          "start": [
+            1,
+            8
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 17.26-37",
+          "book": 41,
+          "start": [
+            17,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "titles": [
+        "Wednesday of the 26th week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "Nativity Fast, Wine and Oil are Allowed",
+      "tone": 8,
+      "saints": [],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Timothy 1.18-20, 2.8-15",
+          "book": 53,
+          "start": [
+            1,
+            18
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Hebrews 9.1-7",
+          "book": 57,
+          "start": [
+            9,
+            1
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 18.15-17, 26-30",
+          "book": 41,
+          "start": [
+            18,
+            15
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 10.38-42, 11.27-28",
+          "book": 41,
+          "start": [
+            10,
+            38
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "titles": [
+        "Thursday of the 26th week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "Nativity Fast, Wine and Oil are Allowed",
+      "tone": 8,
+      "saints": [
+        "Ven. Alypius the Stylite",
+        "Stylianos the Monk of Paphlagonia",
+        "Our Holy Father Innocent, Bishop of Irkutsk (1731)",
+        "St Nikon Metanoite (\"Repent!\") (ca. 1000)",
+        "Holy New Martyr George of Chios (1897)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Timothy 3.1-13",
+          "book": 53,
+          "start": [
+            3,
+            1
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 18.31-34",
+          "book": 41,
+          "start": [
+            18,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "titles": [
+        "Friday of the 26th week after Pentecost"
+      ],
+      "feast": "Black squigg (6-stich typikon symbol)",
+      "fast": "Nativity Fast",
+      "tone": 8,
+      "saints": [
+        "Greatmartyr Jacob of Persia",
+        "James the Wonderworker, Bishop of Rostov",
+        "Repose of Archimandrite Lazarus (Moore) (1992) (Nov. 14 OC)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Timothy 4.4-8, 16",
+          "book": 53,
+          "start": [
+            4,
+            4
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 19.12-28",
+          "book": 41,
+          "start": [
+            19,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "titles": [
+        "Saturday of the 26th week after Pentecost"
+      ],
+      "feast": "Black squigg (6-stich typikon symbol)",
+      "fast": "Nativity Fast, Fish, Wine and Oil are Allowed",
+      "tone": 8,
+      "saints": [
+        "Monk Martyr and Confessor Stephen the New",
+        "Martyr Irenarchus and Seven Women Martyrs at Sebaste",
+        "Martyr Timothy and his Companions at Tiberiopolis"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "Galatians 3.8-12",
+          "book": 47,
+          "start": [
+            3,
+            8
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 10.19-21",
+          "book": 41,
+          "start": [
+            10,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "titles": [
+        "26th Sunday after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "Nativity Fast, Fish, Wine and Oil are Allowed",
+      "tone": 1,
+      "saints": [
+        "Martyr Paramon and Companions",
+        "Phaedrus the Martyr",
+        "Our Holy Father Pitirim of Egypt (4th c.)"
+      ],
+      "readings": [
+        {
+          "source": "4th Matins Gospel",
+          "display": "Luke 24.1-12",
+          "book": 41,
+          "start": [
+            24,
+            1
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Ephesians 5.8-19",
+          "book": 48,
+          "start": [
+            5,
+            8
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 13.10-17",
+          "book": 41,
+          "start": [
+            13,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "titles": [
+        "Monday of the 27th week after Pentecost"
+      ],
+      "feast": "Red cross (polyeleos typikon symbol)",
+      "fast": "Nativity Fast, Fish, Wine and Oil are Allowed",
+      "tone": 1,
+      "saints": [
+        "Our Venerable Father Frumentius, first Bishop of Ethiopia (4th c.)"
+      ],
+      "readings": [
+        {
+          "source": "Vespers",
+          "display": "1 Peter 1.1-2.6",
+          "book": 59,
+          "start": [
+            1,
+            1
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "1 Peter 2.21-3.9",
+          "book": 59,
+          "start": [
+            2,
+            21
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "1 Peter 4.1-11",
+          "book": 59,
+          "start": [
+            4,
+            1
+          ]
+        },
+        {
+          "source": "Matins Gospel",
+          "display": "Matthew 4.18-23",
+          "book": 39,
+          "start": [
+            4,
+            18
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "1 Timothy 5.1-10",
+          "book": 53,
+          "start": [
+            5,
+            1
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "1 Corinthians 4.9-16",
+          "book": 45,
+          "start": [
+            4,
+            9
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 19.37-44",
+          "book": 41,
+          "start": [
+            19,
+            37
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "John 1.35-51",
+          "book": 42,
+          "start": [
+            1,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "titles": [
+        "Tuesday of the 27th week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "Nativity Fast, Wine and Oil are Allowed",
+      "tone": 1,
+      "saints": [
+        "Prophet Nahum",
+        "Saint Philaret the Merciful of Constantinople (762)",
+        "Our Venerable Father Eligius (Eloi), Bishop of Noyon (660)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Timothy 5.11-21",
+          "book": 53,
+          "start": [
+            5,
+            11
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 19.45-48",
+          "book": 41,
+          "start": [
+            19,
+            45
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-02",
+      "titles": [
+        "Wednesday of the 27th week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "Nativity Fast",
+      "tone": 1,
+      "saints": [
+        "Holy Prophet Habbakuk (Abbacum) (7th c. BC).",
+        "Joannicos the Monk of Devich",
+        "Holy Martyr Myrope (Myropea) of Chios (251)",
+        "Our Holy Father Athanasius \"the Resurrected,\" Recluse of the Kiev Caves (1176)",
+        "Saint (Stephen) Uroš, King of Serbia (1367)",
+        "Saint Porphyrios of Kavsokalyvia (1991) (Nov. 19 OC)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Timothy 5.22-6.11",
+          "book": 53,
+          "start": [
+            5,
+            22
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 20.1-8",
+          "book": 41,
+          "start": [
+            20,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "titles": [
+        "Thursday of the 27th week after Pentecost"
+      ],
+      "feast": "Red squigg (doxology typikon symbol)",
+      "fast": "Nativity Fast, Wine and Oil are Allowed",
+      "tone": 1,
+      "saints": [
+        "Prophet Zephaniah",
+        "Ven. Savva of Zvenigorod",
+        "Theodore, Archbishop of Alexandria",
+        "Angelis the New Martyr",
+        "Our Venerable Father John the Silent, Bishop of Colonia (558)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "1 Timothy 6.17-21",
+          "book": 53,
+          "start": [
+            6,
+            17
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 20.9-18",
+          "book": 41,
+          "start": [
+            20,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "titles": [
+        "Friday of the 27th week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "Nativity Fast",
+      "tone": 1,
+      "saints": [
+        "Juliana the Martyr of Heliopolis",
+        "Holy Great Martyr Barbara (290)",
+        "Hieromartyr Alexander Hotovitzky, Missionary to America (1937)",
+        "Our Righteous Father John of Damascus (760)",
+        "Saint Gennadius, Archbishop of Novgorod (1505)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "2 Timothy 1.1-2, 8-18",
+          "book": 54,
+          "start": [
+            1,
+            1
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Hebrews 13.7-16",
+          "book": 57,
+          "start": [
+            13,
+            7
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 20.19-26",
+          "book": 41,
+          "start": [
+            20,
+            19
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 12.32-40",
+          "book": 41,
+          "start": [
+            12,
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "titles": [
+        "Saturday of the 27th week after Pentecost"
+      ],
+      "feast": "Red cross (polyeleos typikon symbol)",
+      "fast": "Nativity Fast, Fish, Wine and Oil are Allowed",
+      "tone": 1,
+      "saints": [
+        "St Cosmas the Protos of Mount Athos and his companions (ca. 1274)"
+      ],
+      "readings": [
+        {
+          "source": "Vespers",
+          "display": "Wisdom of Solomon 3.1-9",
+          "book": null,
+          "start": [
+            3,
+            1
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Wisdom of Solomon 5.15-6.3",
+          "book": null,
+          "start": [
+            5,
+            15
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Wisdom of Solomon 4.7-15",
+          "book": null,
+          "start": [
+            4,
+            7
+          ]
+        },
+        {
+          "source": "Matins Gospel",
+          "display": "Luke 6.17-23",
+          "book": 41,
+          "start": [
+            6,
+            17
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Galatians 5.22-6.2",
+          "book": 47,
+          "start": [
+            5,
+            22
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Galatians 5.22-6.2",
+          "book": 47,
+          "start": [
+            5,
+            22
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 12.32-40",
+          "book": 41,
+          "start": [
+            12,
+            32
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Matthew 11.27-30",
+          "book": 39,
+          "start": [
+            11,
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-06",
+      "titles": [
+        "27th Sunday after Pentecost"
+      ],
+      "feast": "Red cross half-circle (vigil typikon symbol)",
+      "fast": "Nativity Fast, Fish, Wine and Oil are Allowed",
+      "tone": 2,
+      "saints": [
+        "New Martyr Nicolas Karamos of Smyrna (1657)",
+        "St Maximus, Metropolitan of Kiev & Vladimir (1305)"
+      ],
+      "readings": [
+        {
+          "source": "Vespers",
+          "display": "Composite 2 - Proverbs 10, 3, 8",
+          "book": null,
+          "start": [
+            1,
+            1
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Proverbs 10.31-11.12",
+          "book": 19,
+          "start": [
+            10,
+            31
+          ]
+        },
+        {
+          "source": "Vespers",
+          "display": "Wisdom of Solomon 4.7-15",
+          "book": null,
+          "start": [
+            4,
+            7
+          ]
+        },
+        {
+          "source": "5th Matins Gospel",
+          "display": "Luke 24.12-35",
+          "book": 41,
+          "start": [
+            24,
+            12
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Ephesians 6.10-17",
+          "book": 48,
+          "start": [
+            6,
+            10
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Hebrews 13.17-21",
+          "book": 57,
+          "start": [
+            13,
+            17
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 17.12-19",
+          "book": 41,
+          "start": [
+            17,
+            12
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 6.17-23",
+          "book": 41,
+          "start": [
+            6,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-07",
+      "titles": [
+        "Monday of the 28th week after Pentecost"
+      ],
+      "feast": "Red squigg (doxology typikon symbol)",
+      "fast": "Nativity Fast",
+      "tone": 2,
+      "saints": [
+        "St Ambrose, Bishop of Milan",
+        "Ven. Nilus of Stolobensk",
+        "Athenodoros the Martyr of Mesopotamia",
+        "The Martyrs of Africa, who suffered during the Vandal persecution (429 and following)",
+        "Our Venerable Father Antony of Siya (1556)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "2 Timothy 2.20-26",
+          "book": 54,
+          "start": [
+            2,
+            20
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 20.27-44",
+          "book": 41,
+          "start": [
+            20,
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "titles": [
+        "Tuesday of the 28th week after Pentecost"
+      ],
+      "feast": "Liturgy",
+      "fast": "Nativity Fast, Wine and Oil are Allowed",
+      "tone": 2,
+      "saints": [
+        "Ven. Patapius of Thebes",
+        "Holy Apostles Sosthenes, Apollos, Tychicus and Epaphroditus, Cephas and Caesar"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "2 Timothy 3.16-4.4",
+          "book": 54,
+          "start": [
+            3,
+            16
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 21.12-19",
+          "book": 41,
+          "start": [
+            21,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-09",
+      "titles": [
+        "Wednesday of the 28th week after Pentecost"
+      ],
+      "feast": "Red squigg (doxology typikon symbol)",
+      "fast": "Nativity Fast",
+      "tone": 2,
+      "saints": [
+        "St Hannah (Anna), the Prophetess, the mother of the Prophet Samuel (12th c. BC)",
+        "St Stephen the New Light (Neolampes) of Constantinople (912)"
+      ],
+      "readings": [
+        {
+          "source": "Epistle",
+          "display": "2 Timothy 4.9-22",
+          "book": 54,
+          "start": [
+            4,
+            9
+          ]
+        },
+        {
+          "source": "Epistle",
+          "display": "Galatians 4.22-31",
+          "book": 47,
+          "start": [
+            4,
+            22
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 21.5-7, 10-11, 20-24",
+          "book": 41,
+          "start": [
+            21,
+            5
+          ]
+        },
+        {
+          "source": "Gospel",
+          "display": "Luke 8.16-21",
+          "book": 41,
+          "start": [
+            8,
+            16
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Stable Rust, an exact release: bump the number on purpose, run every check, commit.
+[toolchain]
+channel = "1.99.0"
+components = ["rustfmt", "clippy"]
+targets = ["wasm32-unknown-unknown"]
+profile = "minimal"

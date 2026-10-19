@@ -1,0 +1,36 @@
+name: Text or reference error
+description: A verse, cross-reference, red letter or link that is wrong.
+labels: ["text"]
+body:
+  - type: input
+    id: passage
+    attributes:
+      label: Passage
+      description: Book, chapter and verse, for example John 3:16.
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is shown
+      description: Copy the text or describe what appears.
+    validations:
+      required: true
+  - type: textarea
+    id: right
+    attributes:
+      label: What it should be, and your source
+      description: For the King James text, name the edition you compared with.
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where you saw it
+      options:
+        - The website
+        - The desktop app (Windows)
+        - The desktop app (macOS)
+        - The desktop app (Linux)
+    validations:
+      required: true

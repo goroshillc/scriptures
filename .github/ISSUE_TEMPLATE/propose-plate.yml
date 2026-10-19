@@ -1,0 +1,41 @@
+name: Propose a plate
+description: A public-domain master work for a passage.
+labels: ["art"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Only public-domain works by recognised masters, from Wikimedia Commons. Never generated,
+        AI-made, redrawn or restored images. Every image is looked at one by one before it is
+        admitted: no nudity, no gore shown for shock; fully clothed people of any age are fine;
+        when unsure, it is left out. See CONTRIBUTING.md.
+  - type: input
+    id: commons
+    attributes:
+      label: Wikimedia Commons file
+      description: The file page, for example https://commons.wikimedia.org/wiki/File:...
+    validations:
+      required: true
+  - type: input
+    id: passage
+    attributes:
+      label: Passage it illustrates
+    validations:
+      required: true
+  - type: input
+    id: artist
+    attributes:
+      label: Artist and date
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: Commons marks this file public domain or CC0.
+          required: true
+        - label: I looked at the whole image, and it shows no nudity and no gore shown for shock.
+          required: true
+        - label: It is the master's own work, not a generated, AI-made or redrawn image.
+          required: true

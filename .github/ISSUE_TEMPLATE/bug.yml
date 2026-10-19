@@ -1,0 +1,24 @@
+name: Bug in the app or website
+description: Something that does not work.
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what you expected
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to see it
+      placeholder: "1. Open John 3\n2. ..."
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: System and version
+      description: For example Windows 11, app 0.1.0; or the browser for the website.
+    validations:
+      required: true

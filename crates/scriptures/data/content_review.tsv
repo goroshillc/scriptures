@@ -1,0 +1,266 @@
+# The Scriptures - per-image content review (the content rule in CONTRIBUTING.md).
+# Every image was looked at one by one: each master, page scans cropped toward the plate, details zoomed where noted.
+# Rule: no nudity, no gore shown for shock; fully clothed people of any age are fine; when unsure, it is left out.
+# A loincloth or a cloth from the waist (as on the cross) is recorded as covered. Bare breasts, buttocks, genitals, or an unclothed child are nudity.
+# The build refuses any work without a row here and publishes only ADMIT.
+# commons_file	verdict	rule	reason	reviewed	reviewer
+File:001.The Creation of Light.jpg	ADMIT	OK	Light breaking through clouds over land and water; no figures.	2026-10-19	agent
+File:002.The Creation of Eve.jpg	EXCLUDE	NUDITY	Eve stands fully unclothed in full view; Adam lies beside her with only a cloth at the hips.	2026-10-19	agent
+File:003.Adam and Eve Are Driven out of Eden.jpg	EXCLUDE	UNSURE	Adam bare-chested in a skin loincloth is fine, but Eve's upper body is covered only by her hair and Adam's arm, so her clothing cannot be confirmed.	2026-10-19	agent
+File:004.Cain and Abel Offer Their Sacrifices.jpg	ADMIT	OK	Cain sits bare except for a fur across his lap and groin (loincloth equivalent); Abel kneels in a skin garment at the altar; no breasts, buttocks or genitals shown.	2026-10-19	agent
+File:005.Cain Slays Abel.jpg	ADMIT	OK	Abel lies dead with a cloth across his hips; Cain in a loincloth holds a club; no wound or blood is drawn, so not gore shown for shock.	2026-10-19	agent
+File:009.Noah Curses Ham and Canaan.jpg	ADMIT	OK	Noah, his family and children all robed or in tunics.	2026-10-19	agent
+File:010.The Tower of Babel.jpg	ADMIT	OK	Builders and onlookers robed; the foreground man, seen from behind, wears a cloth from the waist.	2026-10-19	agent
+File:011.Abraham Goes to the Land of Canaan.jpg	ADMIT	OK	Abraham's caravan and flocks in a wide landscape; all figures robed.	2026-10-19	agent
+File:012.Abraham and the Three Angels.jpg	ADMIT	OK	Three robed angels; Abraham robed and bowed.	2026-10-19	agent
+File:013.Lot Flees as Sodom and Gomorrah Burn.jpg	ADMIT	OK	Lot, his daughters and his wife fully robed; the burning city in the distance.	2026-10-19	agent
+File:015.Hagar and Ishmael in the Wilderness.jpg	ADMIT	OK	Hagar kneels in a long dress (checked zoomed: covered); Ishmael lies in a tunic.	2026-10-19	agent
+File:016.The Testing of Abraham's Faith.jpg	ADMIT	OK	Isaac in a tunic carries the wood; Abraham robed.	2026-10-19	agent
+File:017.The Burial of Sarah.jpg	ADMIT	OK	Two bearers bare-backed with cloths from the waist; mourners robed.	2026-10-19	agent
+File:018.Eliezer and Rebekah at the Well.jpg	ADMIT	OK	Rebekah, the women and Eliezer fully robed.	2026-10-19	agent
+File:019.The Meeting of Isaac and Rebekah.jpg	ADMIT	OK	Caravan and household fully robed.	2026-10-19	agent
+File:020.Isaac Blesses Jacob.jpg	ADMIT	OK	Isaac, Jacob and Rebekah fully robed.	2026-10-19	agent
+File:021.Jacob's Dream.jpg	ADMIT	OK	Jacob asleep in his robe; the angels on the ladder are robed and of adult proportions (checked zoomed).	2026-10-19	agent
+File:022.Jacob Tends Laban's Flocks and Meets Rachel.jpg	ADMIT	OK	Rachel robed at the well; Jacob in a tunic with the flock.	2026-10-19	agent
+File:023.Jacob Prays for Protection.jpg	ADMIT	OK	Jacob robed in prayer by the water; the caravan robed.	2026-10-19	agent
+File:024.Jacob Wrestles with the Angel.jpg	ADMIT	OK	Jacob in a tunic and the angel in a long robe.	2026-10-19	agent
+File:025.Jacob and Esau Meet.jpg	ADMIT	OK	Both households robed; the children wear tunics.	2026-10-19	agent
+File:026.Joseph Is Sold by His Brothers.jpg	ADMIT	OK	Joseph in a tunic among his robed brothers and the merchants.	2026-10-19	agent
+File:027.Joseph Interprets Pharaoh's Dream.jpg	ADMIT	OK	Joseph in a long tunic before Pharaoh's robed court.	2026-10-19	agent
+File:028.Joseph Reveals Himself to His Brothers.jpg	ADMIT	OK	Joseph robed; the brothers robed or in tunics.	2026-10-19	agent
+File:029.Jacob Goes to Egypt.jpg	ADMIT	OK	Jacob's household, robed, with the flocks.	2026-10-19	agent
+File:032.Moses and Aaron Appear before Pharaoh.jpg	ADMIT	OK	Moses and Aaron robed before Pharaoh's court; the rod as a serpent on the floor.	2026-10-19	agent
+File:033.The Fifth Plague. Livestock Disease.jpg	ADMIT	OK	Dead livestock and fleeing Egyptians; the children in the fleeing group wear smocks (checked zoomed); no human wounds shown.	2026-10-19	agent
+File:036.The Egyptians Ask Moses to Depart.jpg	ADMIT	OK	Pharaoh and court robed; a dead firstborn lies in a garment at lower left, no wound shown.	2026-10-19	agent
+File:037.The Egyptians Drown in the Sea.jpg	ADMIT	OK	Horsemen engulfed by the sea at a distance; small clothed figures; no wounds shown.	2026-10-19	agent
+File:038.The Giving of the Law on Mount Sinai.jpg	EXCLUDE	NUDITY	At lower right two small children sit unclothed beside the elder (checked zoomed).	2026-10-19	agent
+File:039.Moses Comes Down from Mount Sinai.jpg	ADMIT	OK	Moses robed with the tables; the people robed.	2026-10-19	agent
+File:040.The Death of Korah, Dathan, and Abiram.jpg	ADMIT	OK	Korah, Dathan and Abiram robed, falling into the opened earth; no wounds shown.	2026-10-19	agent
+File:042.The Bronze Serpent.jpg	ADMIT	OK	Men bare-chested in loincloths among the serpents; a figure carried at right shows only back and shoulders (checked zoomed); no breasts, buttocks or genitals shown.	2026-10-19	agent
+File:043.An Angel Appears to Balaam.jpg	ADMIT	OK	The angel robed with a sword; Balaam robed on the ass.	2026-10-19	agent
+File:046.The Walls of Jericho Fall Down.jpg	ADMIT	OK	Defenders clothed, falling with the stones (checked zoomed); no wounds drawn; the procession robed.	2026-10-19	agent
+File:047.Joshua Spares Rahab.jpg	EXCLUDE	GORE	Severed heads lie on the ground beside headless bodies, and a spear stands in a body, in the foreground.	2026-10-19	agent
+File:048.Achan Is Stoned to Death.jpg	ADMIT	OK	Achan's clothed body lies under the stones with a small dark pool; no wound or mutilation drawn; restrained, not shock.	2026-10-19	agent
+File:049.Joshua Burns the Town of Ai.jpg	ADMIT	OK	Joshua's army, armoured and robed, watches Ai burn in the distance.	2026-10-19	agent
+File:050.The Army of the Amorites Is Destroyed.jpg	ADMIT	OK	Amorite riders under falling hailstones; fallen men clothed; no wounds drawn.	2026-10-19	agent
+File:051.Joshua Commands the Sun to Stand Still.jpg	ADMIT	OK	Joshua and the army armoured under the sun; fallen soldiers clothed at a distance.	2026-10-19	agent
+File:052.Jael Kills Sisera.jpg	ADMIT	OK	Jael robed at the tent door; Sisera lies face down in armour; the nail is not shown.	2026-10-19	agent
+File:053.Deborah Praises Jael.jpg	ADMIT	OK	Deborah robed and veiled; the elders robed.	2026-10-19	agent
+File:054.Gideon Chooses 300 Soldiers.jpg	ADMIT	OK	Gideon's men, robed, drinking at the water.	2026-10-19	agent
+File:055.The Midianites Are Routed.jpg	ADMIT	OK	Night rout of the Midianites; figures clothed and indistinct.	2026-10-19	agent
+File:056.The Death of Gideon's Sons.jpg	ADMIT	OK	The slain sons lie clothed in a heap; no wounds drawn.	2026-10-19	agent
+File:057.The Death of Abimelech.jpg	ADMIT	OK	Abimelech in armour with a small dark pool by his head; no wound drawn; soldiers armoured.	2026-10-19	agent
+File:058.Jephthah's Daughter Comes to Meet Her Father.jpg	ADMIT	OK	Jephthah's daughter and her companions dance, fully robed.	2026-10-19	agent
+File:059.Israelite Women Mourn with Jephthah's Daughter.jpg	ADMIT	OK	The women mourn, fully robed and veiled.	2026-10-19	agent
+File:060.Samson Slays a Lion.jpg	ADMIT	OK	Samson in a tunic wrestles the lion; no wound drawn.	2026-10-19	agent
+File:061.Samson Destroys the Philistines with an Ass' Jawbone.jpg	ADMIT	OK	Philistines driven over the cliff, clothed or bare-chested men at small scale (checked zoomed); no wounds drawn.	2026-10-19	agent
+File:062.Samson Carries away the Gates of Gaza.jpg	ADMIT	OK	Samson carries the gates at night; a small clothed figure.	2026-10-19	agent
+File:063.Samson and Delilah.jpg	ADMIT	OK	Samson in a tunic and Delilah fully robed.	2026-10-19	agent
+File:064.The Death of Samson.jpg	EXCLUDE	UNSURE	In the falling crowd a small child clinging to a woman appears unclothed, and the woman's torso appears bare (checked zoomed).	2026-10-19	agent
+File:065.A Levite Finds a Woman's Corpse.jpg	ADMIT	OK	The woman lies fully clothed, face down at the door; no wound drawn; the Levite robed.	2026-10-19	agent
+File:066.The Levite Carries the Woman's Body Away.jpg	ADMIT	OK	The clothed body is carried on the ass; no wound drawn.	2026-10-19	agent
+File:067.The Benjaminites Take the Virgins of Jabesh-gilead.jpg	EXCLUDE	UNSURE	The women seized onto camels include one whose back and shoulders appear bare (checked zoomed); clothing cannot be confirmed.	2026-10-19	agent
+File:068.Naomi and Her Daughters-in-Law.jpg	ADMIT	OK	Naomi, Ruth and Orpah fully robed and veiled.	2026-10-19	agent
+File:069.Ruth and Boaz.jpg	ADMIT	OK	Ruth gleaning, Boaz and the reapers fully robed.	2026-10-19	agent
+File:070.The Ark Is Returned to Beth-shemesh.jpg	ADMIT	OK	Reapers robed in the field; the ark on its cart in the distance.	2026-10-19	agent
+File:071.The Death of Agag.jpg	ADMIT	OK	Agag kneels bare-chested held by Samuel before the sword falls; no wound or blood drawn; everyone else robed.	2026-10-19	agent
+File:072.Saul Attempts to Kill David.jpg	ADMIT	OK	Saul robed casts the spear; David in a tunic at the harp.	2026-10-19	agent
+File:073.David Escapes through a Window.jpg	ADMIT	OK	David in a tunic climbs down the rope; Michal robed at the window.	2026-10-19	agent
+File:074.David Shows Saul How He Spared His Life.jpg	ADMIT	OK	David robed holds up the skirt of Saul's robe; Saul's army at a distance.	2026-10-19	agent
+File:075.Saul and the Witch of Endor.jpg	ADMIT	OK	The witch robed seen from behind; Samuel's spirit robed; Saul and his men robed.	2026-10-19	agent
+File:076.The Death of Saul.jpg	ADMIT	OK	Saul in armour falls on his sword; the fallen are clothed; no wound drawn.	2026-10-19	agent
+File:077.Jabesh-Gileadites Recover the Bodies of Saul and His Sons.jpg	EXCLUDE	GORE	Bodies hang from the wall and a man on the ladder holds a severed head, with another head hanging beside him; the hanging bodies appear bare.	2026-10-19	agent
+File:078.Combat between Soldiers of Ish-bosheth and David.jpg	ADMIT	OK	Armoured soldiers in combat with dark pools on the ground; fallen men clothed; no wounds or severed parts drawn.	2026-10-19	agent
+File:079.David Attacks the Ammonites.jpg	EXCLUDE	GORE	Bound captives, many bare, lie piled under the chariot wheels as it crushes them (checked zoomed); several figures' clothing cannot be confirmed.	2026-10-19	agent
+File:080.The Death of Absalom.jpg	ADMIT	OK	Absalom caught in the oak, armoured riders below; no wound drawn.	2026-10-19	agent
+File:081.David Mourns the Death of Absalom.jpg	ADMIT	OK	David veiled and robed in mourning; the court robed.	2026-10-19	agent
+File:082.Rizpah’s Kindness toward the Dead.jpg	EXCLUDE	GORE	Seven hanged bodies, bare, decaying on the gibbets with birds and jackals around them (checked zoomed).	2026-10-19	agent
+File:083.Abishai Saves David's Life.jpg	ADMIT	OK	Cavalry battle; fallen men clothed or bare-chested; no wounds or severed parts drawn.	2026-10-19	agent
+File:085.Cedars Are Cut Down for the Jerusalem Temple.jpg	ADMIT	OK	Woodcutters and teamsters clothed or bare-chested labourers at the cedars.	2026-10-19	agent
+File:086.Solomon Receives the Queen of Sheba.jpg	ADMIT	OK	Solomon, the Queen of Sheba and their courts fully robed; the children in her train clothed.	2026-10-19	agent
+File:087.King Solomon in Old Age.jpg	ADMIT	OK	Solomon seated, fully robed.	2026-10-19	agent
+File:088.The Disobedient Prophet Is Slain by a Lion.jpg	ADMIT	OK	The prophet's clothed body lies on the road with the lion and ass beside it; no wound drawn.	2026-10-19	agent
+File:090.The Prophets of Baal Are Slaughtered.jpg	ADMIT	OK	A clothed prophet falls from the cliff and an executioner raises an axe; no wound, blood or severed part drawn (checked zoomed).	2026-10-19	agent
+File:091.Elijah Is Nourished by an Angel.jpg	ADMIT	OK	Elijah robed; the angel in a long robe.	2026-10-19	agent
+File:092.The Israelites Slaughter the Syrians.jpg	EXCLUDE	UNSURE	A dense heap of dying, mostly bare men under the chariots; several figures' clothing cannot be confirmed (checked zoomed).	2026-10-19	agent
+File:093.The Death of Ahab.jpg	ADMIT	OK	Ahab bare-chested with a cloth over his lap in the chariot; the fallen clothed; no wound drawn.	2026-10-19	agent
+File:094.Elijah Destroys the Messengers of Ahaziah.jpg	ADMIT	OK	Fire from heaven strikes clothed riders; no wounds drawn.	2026-10-19	agent
+File:095.Elijah Ascends to Heaven in a Chariot of Fire.jpg	ADMIT	OK	Elijah robed in the chariot; Elisha robed.	2026-10-19	agent
+File:096.A Famine in Samaria.jpg	ADMIT	OK	Starving people in loincloths and robes lie on the steps before the robed king; no wounds drawn (checked zoomed).	2026-10-19	agent
+File:097.The Death of Jezebel.jpg	ADMIT	OK	Jezebel, fully clothed, is thrown from the window; dogs wait below; no wound drawn.	2026-10-19	agent
+File:098.Jehu's Companions Find Jezebel's Remains.jpg	EXCLUDE	GORE	Jezebel's severed head, hands and feet lie on the ground beside a dog.	2026-10-19	agent
+File:099.The Death of Athaliah.jpg	ADMIT	OK	Athaliah, fully robed, cornered by armed soldiers; no wound drawn.	2026-10-19	agent
+File:101.Sennacherib's Army Is Destroyed.jpg	ADMIT	OK	A robed angel with a sword over the fallen Assyrian camp; the fallen are clothed or armoured; no wounds drawn (checked zoomed).	2026-10-19	agent
+File:103.The Ammonite and Moabite Armies Are Destroyed.jpg	EXCLUDE	UNSURE	A valley heaped with corpses, many bare and indistinct; their clothing cannot be confirmed (checked zoomed), and the heaped dead are the subject of the plate.	2026-10-19	agent
+File:104.Cyrus Restores the Vessels of the Temple.jpg	ADMIT	OK	Cyrus and his court fully robed; vessels carried by robed men.	2026-10-19	agent
+File:105.The Rebuilding of the Temple Is Begun.jpg	ADMIT	OK	Labourers bare-chested in loincloths haul stones; the crowd robed and armoured.	2026-10-19	agent
+File:106.Artaxerxes Grants Freedom to the Jews.jpg	ADMIT	OK	Artaxerxes' herald robed before a robed crowd in Babylon.	2026-10-19	agent
+File:107.Ezra Kneels in Prayer.jpg	ADMIT	OK	Ezra prostrate, fully robed.	2026-10-19	agent
+File:108.Nehemiah Views the Ruins of Jerusalem's Walls.jpg	ADMIT	OK	Nehemiah and his companions fully robed among the ruins.	2026-10-19	agent
+File:109.Ezra Reads the Law to the People.jpg	ADMIT	OK	Ezra robed with the tables; the people robed.	2026-10-19	agent
+File:110.Tobias and the Angel.jpg	ADMIT	OK	Raphael robed; Tobias in a short tunic with the fish.	2026-10-19	agent
+File:111.The Angel Raphael and the Family of Tobit.jpg	ADMIT	OK	Tobit's family robed or in tunics; the departing angel robed.	2026-10-19	agent
+File:112.Judith and Holofernes.jpg	EXCLUDE	GORE	Holofernes' severed head lies on the bed in the light beside Judith's hand, with the sword at her feet.	2026-10-19	agent
+File:113.Judith Shows the Head of Holofernes.jpg	EXCLUDE	GORE	Judith holds Holofernes' severed head up high as the centre of the plate.	2026-10-19	agent
+File:114.Queen Vashti Refuses to Obey Ahasuerus' Command.jpg	ADMIT	OK	Vashti and the court fully robed and armoured.	2026-10-19	agent
+File:115.Esther Before the King.jpg	ADMIT	OK	Esther, fainting, and the court fully robed.	2026-10-19	agent
+File:117.Esther Accuses Haman.jpg	ADMIT	OK	Esther, Ahasuerus and Haman fully robed.	2026-10-19	agent
+File:118.Job Hears of His Misfortunes.jpg	ADMIT	OK	Job and his household robed; the servants in tunics.	2026-10-19	agent
+File:119.Job Speaks with His Friends.jpg	ADMIT	OK	Job bare-chested with a skin across his lap (loincloth equivalent); his three friends robed.	2026-10-19	agent
+File:120.The Prophet Isaiah.jpg	ADMIT	OK	Isaiah seated, fully robed.	2026-10-19	agent
+File:121.Isaiah's Vision of the Destruction of Babylon.jpg	ADMIT	OK	A single robed figure among the ruins of Babylon.	2026-10-19	agent
+File:122.The Destruction of Leviathan.jpg	ADMIT	OK	The LORD with a sword above the sea monster; no human figure but the robed one in the clouds.	2026-10-19	agent
+File:123.Baruch Writes Jeremiah's Prophecies.jpg	ADMIT	OK	Jeremiah and Baruch fully robed.	2026-10-19	agent
+File:123.The Prophet Jeremiah.jpg	ADMIT	OK	Jeremiah and the people fully robed.	2026-10-19	agent
+File:125.Baruch.jpg	ADMIT	OK	Baruch alone, fully robed.	2026-10-19	agent
+File:126.The Prophet Ezekiel.jpg	ADMIT	OK	Ezekiel and the listeners fully robed.	2026-10-19	agent
+File:127.Ezekiel’s Vision of the Valley of Dry Bones.jpg	EXCLUDE	NUDITY	At upper left a risen man stands fully unclothed, seen from the front (checked zoomed); the valley is full of skeletons.	2026-10-19	agent
+File:128.Daniel among the Exiles.jpg	ADMIT	OK	Daniel and the exiles fully robed; a seated mother and child clothed.	2026-10-19	agent
+File:129.Shadrach, Meshach and Abednego in the Furnace.jpg	ADMIT	OK	The three in the furnace robed, the middle one bare-chested with a cloth from the waist; the court robed.	2026-10-19	agent
+File:130.Daniel Interprets the Writing on the Wall.jpg	ADMIT	OK	Belshazzar's feast; the court and guests robed.	2026-10-19	agent
+File:131.Daniel in the Lions' Den.jpg	ADMIT	OK	Daniel robed among the lions; a few animal bones on the floor, no human remains shown for shock.	2026-10-19	agent
+File:132.Daniel's Vision of the Four Beasts.jpg	ADMIT	OK	The four beasts rise from the sea; one robed figure on the shore.	2026-10-19	agent
+File:133.Susanna in the Bath.jpg	ADMIT	OK	Susanna stands wrapped from neck to feet in a long robe; the two elders robed behind her; no nudity shown.	2026-10-19	agent
+File:134.The Justification of Susanna.jpg	ADMIT	OK	Susanna, Daniel and the crowd fully robed; the child at right clothed.	2026-10-19	agent
+File:135.Daniel Confounds the Priests of Bel.jpg	ADMIT	OK	Daniel, the king and the priests of Bel fully robed.	2026-10-19	agent
+File:136.The Prophet Amos.jpg	ADMIT	OK	Amos alone, fully robed.	2026-10-19	agent
+File:137.Jonah Is Spewed Forth by the Whale.jpg	ADMIT	OK	Jonah robed, cast up on the shore.	2026-10-19	agent
+File:138.Jonah Preaches to the Ninevites.jpg	ADMIT	OK	Jonah and the Ninevites robed or armoured; one kneeling man bare-armed in a tunic.	2026-10-19	agent
+File:139.Micah Exhorts the Israelites to Repent.jpg	ADMIT	OK	Micah robed; the listeners robed, one bare-chested man seated with a robe from the waist.	2026-10-19	agent
+File:140.Zechariah's Vision of Four Chariots.jpg	ADMIT	OK	Angels in long robes driving the four chariots.	2026-10-19	agent
+File:141.Mattathias and the Apostate.jpg	ADMIT	OK	Mattathias robed; the apostate lies clothed on the altar steps with the spear at his side; no blood or wound drawn.	2026-10-19	agent
+File:142.Matthias Appealing to Jewish Refugees.jpg	ADMIT	OK	Mattathias and the refugees fully robed.	2026-10-19	agent
+File:143.Judas Maccabeus Pursues Timotheus.jpg	ADMIT	OK	Judas Maccabeus and his cavalry, armoured, at the ford.	2026-10-19	agent
+File:144.The Death of Eleazar.jpg	ADMIT	OK	Battle under the war elephant; the fallen are clothed or armoured, one with an arrow; no blood or wound drawn (checked zoomed).	2026-10-19	agent
+File:145.Judas Maccabeus before the Army of Nicanor.jpg	ADMIT	OK	Judas Maccabeus and the two armies, armoured, with elephants.	2026-10-19	agent
+File:146.Jonathan Destroys the Temple of Dagon.jpg	ADMIT	OK	Melee in the temple of Dagon; men falling and fighting are clothed or armoured; no blood or wound drawn (checked zoomed).	2026-10-19	agent
+File:147.Heliodorus Is Cast Down.jpg	ADMIT	OK	Angels in robes and armour strike Heliodorus, who is armoured; no wound drawn.	2026-10-19	agent
+File:148.The Army Appears in the Heavens.jpg	ADMIT	OK	A heavenly host in the clouds; the people below robed.	2026-10-19	agent
+File:149.The Martyrdom of Eleazar the Scribe.jpg	ADMIT	OK	Eleazar wrapped in his robe is beaten by clothed executioners; no wound or blood drawn.	2026-10-19	agent
+File:150.The Courage of a Mother.jpg	ADMIT	OK	The mother robed and her son in a tunic; a kneeling prisoner and a guard are bare-backed with cloths from the waist; no wound drawn.	2026-10-19	agent
+File:151.The Punishment of Antiochus.jpg	ADMIT	OK	Antiochus thrown from his chariot, armoured; the army armoured.	2026-10-19	agent
+File:152.The Angel Is Sent to Deliver Israel.jpg	ADMIT	OK	An armoured angel on horseback; the fallen enemies are clothed or armoured; no wound drawn.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89480043).jpg	ADMIT	OK	Mary robed and veiled; Gabriel in a long robe.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89480558).jpg	ADMIT	OK	The boy Jesus in a long tunic among the robed doctors.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89475624).jpg	ADMIT	OK	Christ stands bare-chested in the Jordan with a cloth held across his hips and groin (checked zoomed, loincloth equivalent, as at the Crucifixion); John in camel hair; onlookers robed. Flagged for Stefano's own look.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89481200).jpg	ADMIT	OK	Christ robed in the boat; the people robed, a boy in a tunic.	2026-10-19	agent
+File:Dore Bible Sermon on the Mount.jpg	ADMIT	OK	Christ and the multitude fully robed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483276).jpg	ADMIT	OK	The wedding guests and servants fully robed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483382).jpg	ADMIT	OK	Christ and the Samaritan woman fully robed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89479109).jpg	ADMIT	OK	Christ and the disciples robed in the boat.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89476805).jpg	ADMIT	OK	Christ robed walking on the water; the boat at a distance.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89481515).jpg	ADMIT	OK	Jairus' daughter in bed and the mourners fully clothed; Christ robed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89477161).jpg	ADMIT	OK	Christ, Moses and Elijah robed in the cloud; the three disciples robed on the ground.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89481903).jpg	ADMIT	OK	Christ, Martha and Mary fully robed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89482051).jpg	ADMIT	OK	The prodigal in a tunic at the gate; the household robed; the children in tunics.	2026-10-19	agent
+File:Lazarus and the Rich Man (89482442).jpg	ADMIT	OK	Lazarus bare-chested with a robe from the waist, dogs beside him; the rich man's household robed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89482647).jpg	ADMIT	OK	The Pharisee and the publican robed; Christ and the disciples robed in the doorway.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483469).jpg	ADMIT	OK	The woman sits in a dress and wrap; Christ and the accusers fully robed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89477540).jpg	ADMIT	OK	Christ robed on the ass; the crowd robed, children in tunics.	2026-10-19	agent
+File:Dispute of Jesus and the Pharisees (89477737).jpg	ADMIT	OK	Christ and the Pharisees fully robed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89478051).jpg	ADMIT	OK	Christ and the twelve fully robed at table.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89478813).jpg	ADMIT	OK	Christ robed at prayer; the sleeping disciples robed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89482762).jpg	ADMIT	OK	Christ robed and kneeling; the angel in a long robe.	2026-10-19	agent
+File:Gustave Doré - The Holy Bible - Plate CXLI, The Judas Kiss.jpg	ADMIT	OK	Christ, Judas and the band robed or armoured; one figure behind with a bare torso.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89478925).jpg	ADMIT	OK	Peter and those at the fire robed or in tunics; the boy in a tunic.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483694).jpg	ADMIT	OK	Christ bare-chested with a cloth from the waist at the pillar; the scourgers bare-backed in tunics; no wounds or blood drawn.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483941).jpg	ADMIT	OK	Christ crowned with thorns, bare-chested in a robe; the crowd robed, some men bare-backed.	2026-10-19	agent
+File:DoreArrivalatCalvary.jpg	ADMIT	OK	Christ fallen under the cross, fully robed; soldiers and the women robed.	2026-10-19	agent
+File:Gustave Doré - Crucifixion of Jesus.jpg	EXCLUDE	UNSURE	Christ is in a loincloth, but the thief already on the cross behind is bound with a rope at the waist and appears unclothed, his groin hidden only by his raised leg (checked zoomed).	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483040).jpg	ADMIT	OK	The crosses in silhouette; fleeing soldiers armoured and a running figure in a short belted tunic (checked zoomed).	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89484501).jpg	ADMIT	OK	Christ's body lies in a loincloth on the shroud; the mourners robed; no wounds drawn.	2026-10-19	agent
+File:DoreDeathofAnanias.jpg	ADMIT	OK	Ananias fallen, bare-backed with a robe from the waist; the apostles robed.	2026-10-19	agent
+File:The Death of Stephen (89485178).jpg	ADMIT	OK	Stephen robed among the stoners; several stoners bare-chested or bare-backed with cloths from the waist; no wounds or blood drawn.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89485361).jpg	ADMIT	OK	Peter, Cornelius' household and the women fully robed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89485423).jpg	ADMIT	OK	Peter robed led by a robed angel past armoured sleeping guards.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89485452).jpg	ADMIT	OK	Paul and the Thessalonians fully robed.	2026-10-19	agent
+File:Paul in Ephesus (89485605).jpg	ADMIT	OK	Paul robed; the book-burners clothed, some bare-chested with robes from the waist.	2026-10-19	agent
+File:Paul Addresses the Crowd After His Arrest (89485728).jpg	ADMIT	OK	Paul robed, held by soldiers; the crowd clothed, some bare-backed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89485903).jpg	ADMIT	OK	John robed with his tablet on the rock.	2026-10-19	agent
+File:Gustave Doré - Death on the Pale Horse (1865).jpg	ADMIT	OK	Death as a robed skeletal rider with a scythe and winged demons in the cloud; no nudity and no wounds.	2026-10-19	agent
+File:Dorebabylon-fallen.jpg	ADMIT	OK	Ruins of Babylon by moonlight with beasts and birds; no figures.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89486509).jpg	ADMIT	OK	The angel in a long robe shows the city to John, who is robed.	2026-10-19	agent
+File:Albrecht Dürer, Adam and Eve, 1504, NGA 6610.jpg	EXCLUDE	NUDITY	Dürer's Adam and Eve: both stand fully unclothed, covered only by a sprig at the groin; Eve's breasts are shown.	2026-10-19	agent
+File:Albrecht Dürer, Cain Killing Abel, 1511, NGA 6789.jpg	EXCLUDE	NUDITY	Cain wears only a cord at the waist with his groin barely covered, and Abel lies with bare buttocks; also an axe raised over a struck victim.	2026-10-19	agent
+File:Albrecht Dürer, Christ Carrying the Cross, c. 1498-1499, NGA 6738.jpg	ADMIT	OK	Christ falls under the cross in a long robe; the crowd, women and soldiers clothed in period dress.	2026-10-19	agent
+File:Albrecht Dürer, Ecce Homo, c. 1498-1499, NGA 6737.jpg	ADMIT	OK	Christ stands in a loincloth and a cloak held open (checked zoomed); the crowd and the boy at lower left clothed.	2026-10-19	agent
+File:Albrecht Dürer, Pentecost, probably c. 1509-1510, NGA 6785.jpg	ADMIT	OK	Mary and the apostles fully robed under the dove.	2026-10-19	agent
+File:Albrecht Dürer, The Vision of the Seven Candlesticks, 1498, NGA 142350.jpg	ADMIT	OK	Christ robed among the candlesticks; John robed and kneeling.	2026-10-19	agent
+File:Albrecht Dürer, The Four Horsemen, 1498, NGA 142352.jpg	ADMIT	OK	The four riders clothed; Death as a gaunt figure in a shroud; those trampled are clothed; no wounds drawn.	2026-10-19	agent
+File:Albrecht Dürer, The Four Angels Holding the Winds, 1498, NGA 142354.jpg	ADMIT	OK	Robed angels hold back the winds; the sealed crowd robed.	2026-10-19	agent
+File:Albrecht Dürer, The Seven Angels with the Trumpets, 1498, NGA 142355.jpg	ADMIT	OK	Robed angels with trumpets; small figures in the boat and sea at the bottom are clothed (checked zoomed).	2026-10-19	agent
+File:Albrecht Dürer, The Four Avenging Angels, 1498, NGA 142356.jpg	ADMIT	OK	The four angels in robes strike a crowd of clothed men, kings and clerics; no wounds drawn.	2026-10-19	agent
+File:Albrecht Dürer, Saint Michael Fighting the Dragon, 1498, NGA 142359.jpg	ADMIT	OK	Michael and the angels in robes fight the dragon over a landscape; no human nudity.	2026-10-19	agent
+File:Albrecht Dürer, The Beast with Two Horns LIke a Lamb, 1498, NGA 142360.jpg	ADMIT	OK	The robed figure enthroned, robed angels, and the crowd clothed; the small winged child-angel at upper left wears a garment (checked zoomed).	2026-10-19	agent
+File:Albrecht Dürer, The Adoration of the Lamb, 1498, NGA 142361.jpg	ADMIT	OK	The elders, angels and the multitude with palms all robed.	2026-10-19	agent
+File:Albrecht Dürer, The Whore of Babylon, 1498, NGA 142362.jpg	ADMIT	OK	The woman on the beast wears a full gown with a low neckline (checked zoomed); the onlookers clothed.	2026-10-19	agent
+File:Albrecht Dürer, The Angel with the Key to the Bottomless Pit, 1498, NGA 142363.jpg	ADMIT	OK	The angel in a long robe binds the dragon; the two figures above robed.	2026-10-19	agent
+File:Titian - Annunciation - San Rocco.jpg	ADMIT	OK	Titian: Gabriel in a pink robe with bare lower legs; Mary in a black mantle.	2026-10-19	agent
+File:Titian - The Tribute Money - Google Art Project.jpg	ADMIT	OK	Titian: Christ in a red robe and blue mantle; the questioner clothed with a bare shoulder.	2026-10-19	agent
+File:Cristo camino del Calvario, de Tiziano (Museo del Prado).jpg	ADMIT	OK	Titian: Christ robed under the cross; Simon of Cyrene clothed.	2026-10-19	agent
+File:Le Transport du Christ vers le tombeau - Titien - Musée du Louvre Peintures INV 749.jpg	ADMIT	OK	Titian: Christ's body bare-chested, carried in a white shroud that covers the hips; the mourners clothed; no wounds drawn.	2026-10-19	agent
+File:Titian - Noli me Tangere - Google Art Project.jpg	ADMIT	OK	Titian: the risen Christ in a white loincloth and cloak; Mary Magdalene fully dressed.	2026-10-19	agent
+File:Les Pèlerins d'Emmaüs - Titien - Musée du Louvre Peintures INV 746 ; MR 517.jpg	ADMIT	OK	Titian: Christ and the two disciples at table with the servants, all fully clothed.	2026-10-19	agent
+File:006.The World Is Destroyed by Water.jpg	EXCLUDE	NUDITY	A mass of fully unclothed men, women and children drowning, with bare buttocks and breasts shown throughout.	2026-10-19	agent
+File:007.The Great Flood.jpg	EXCLUDE	NUDITY	Unclothed children cling to the rock and an unclothed mother and child lie in the waves.	2026-10-19	agent
+File:008.A Dove Is Sent Forth from the Ark.jpg	EXCLUDE	NUDITY	The ground is strewn with unclothed drowned bodies, adults and children, bare buttocks shown.	2026-10-19	agent
+File:014.Abraham Sends Hagar and Ishmael Away.jpg	EXCLUDE	UNSURE	In the background Sarah holds the infant Isaac, whose body and legs appear bare (checked zoomed); his clothing cannot be confirmed. Hagar, Ishmael and Abraham are robed.	2026-10-19	agent
+File:030.The Child Moses on the Nile.jpg	EXCLUDE	NUDITY	The infant Moses lies in the basket unclothed (checked zoomed).	2026-10-19	agent
+File:031.The Finding of Moses.jpg	EXCLUDE	UNSURE	The infant Moses wears a short shift but his legs are bare and he is not fully clothed (checked zoomed); left for Stefano's own look, since a fully clothed baby Moses is allowed.	2026-10-19	agent
+File:034.The Ninth Plague. Darkness.jpg	EXCLUDE	UNSURE	Dozens of dead and stricken figures on the steps, several bare and indistinct, among them small figures who may be children (checked zoomed).	2026-10-19	agent
+File:035.The Firstborn of the Egyptians Are Slain.jpg	EXCLUDE	UNSURE	Dead children lie on the steps; one boy is bare to the waist and an infant on the floor appears unclothed.	2026-10-19	agent
+File:041A.Moses Breaks the Tables of the Law.jpg	ADMIT	OK	Moses robed raises the tables; the people robed.	2026-10-19	agent
+File:041.Moses Strikes the Rock at Horeb.jpg	EXCLUDE	UNSURE	A woman at lower right holds an infant whose clothing cannot be confirmed (checked zoomed); the rest of the people are robed.	2026-10-19	agent
+File:041B.The Spies Return from the Promised Land.jpg	ADMIT	OK	The spies carry the grapes; one bare-backed with a cloth from the waist, the rest in tunics and robes.	2026-10-19	agent
+File:044. The Israelites Cross the Jordan River.jpg	ADMIT	OK	The army and the ark cross the Jordan; everyone robed or armoured.	2026-10-19	agent
+File:045. An Angel Appears to the Israelites.jpg	ADMIT	OK	The angel in a long robe above the robed host; one kneeling figure clothed.	2026-10-19	agent
+File:070A.Samuel Blesses Saul.jpg	ADMIT	OK	Samuel and Saul fully robed.	2026-10-19	agent
+File:071A.David Slays Goliath.jpg	EXCLUDE	GORE	David holds Goliath's severed head high over the headless body, with blood pooled at the neck.	2026-10-19	agent
+File:073A.David and Jonathan.jpg	ADMIT	OK	David and Jonathan fully robed.	2026-10-19	agent
+File:084.The Judgment of Solomon.jpg	EXCLUDE	NUDITY	The soldier holds the infant up unclothed, bare back and buttocks shown, with a sword drawn.	2026-10-19	agent
+File:089.Elijah Raises the Son of the Widow of Zarephath.jpg	EXCLUDE	UNSURE	The widow's son is shown bare to the waist; the law admits children only fully clothed.	2026-10-19	agent
+File:095.Some Children Are Destroyed by Bears.jpg	EXCLUDE	UNSURE	Children mauled by bears, one boy bare-backed (checked zoomed); children under attack, left out as unsure.	2026-10-19	agent
+File:100.Foreign Nations Are Slain by Lions in Samaria.jpg	EXCLUDE	GORE	Lions maul men, women and a child on the steps, with blood pooled on the ground in the foreground.	2026-10-19	agent
+File:102.Zedekiah's Sons Are Slaughtered before His Eyes.jpg	EXCLUDE	GORE	Zedekiah's young sons lie dead and bare-torsoed with a spear in one and blood on the steps, another held down under a knife.	2026-10-19	agent
+File:102A.The Plague of Jerusalem.jpg	ADMIT	OK	The plague-stricken lie and sit bare-chested with robes from the waist; David and the elders robed; no wounds drawn.	2026-10-19	agent
+File:116.The Triumph of Mordecai.jpg	EXCLUDE	UNSURE	At lower left a woman embraces a small child whose back and legs appear bare; the child's clothing cannot be confirmed.	2026-10-19	agent
+File:124.People Mourn over the Destruction of Jerusalem.jpg	EXCLUDE	UNSURE	A child lies bare-chested at upper right among the mourners (checked zoomed); the child in the centre is clothed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89474948).jpg	ADMIT	OK	The wise men and their train fully robed under the star.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89475072).jpg	ADMIT	OK	Mary robed and veiled holds the Christ child, who is wrapped and clothed (checked zoomed); Joseph robed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89475211).jpg	EXCLUDE	NUDITY	Unclothed infants are seized and slain by soldiers with swords; also gore shown for shock.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89475438).jpg	EXCLUDE	UNSURE	A seated man holds a small child whose legs are bare and whose clothing cannot be confirmed (checked zoomed).	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89475772).jpg	EXCLUDE	NUDITY	The tempter is drawn as an unclothed winged male figure, kneeling so that only his pose hides him (checked zoomed). Christ is robed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89475971).jpg	ADMIT	OK	Christ teaching under a tree; everyone robed; the page caption reads Mat. 4, 23.	2026-10-19	agent
+File:Jesus healing the sick (89476181).jpg	EXCLUDE	UNSURE	A boy is carried bare-chested across laps to Christ and a youth beside him is bare-shouldered; children are admitted only fully clothed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89476500).jpg	ADMIT	OK	Christ robed; the mute man kneels in a tunic; the people robed. The page caption reads Mat. 9, 32 (Jesus heals a mute man).	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89476651).jpg	ADMIT	OK	Christ and the disciples fully robed in the corn; page caption Mat. 12, 1.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89476956).jpg	ADMIT	OK	The multitude robed; the small child reaching for bread wears a tunic (checked zoomed). The page caption reads Mat. 15, 32 (the feeding of the four thousand).	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89477370).jpg	EXCLUDE	UNSURE	The possessed son, whom the text calls a child (Mark 9:24), lies bare-chested; children are admitted only fully clothed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89478982).jpg	ADMIT	OK	Christ crowned with thorns and robed; one mocker on the balcony is bare-chested with his lower body behind the wall (checked zoomed); others clothed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89479023).jpg	ADMIT	OK	Christ on the cross in a loincloth, the thieves with cloths at the hips (checked zoomed); soldiers armoured, the women robed. The page caption reads Mat. 27, 50 (the death of Christ).	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89479213).jpg	EXCLUDE	NUDITY	Several infants brought to Christ are unclothed, with bare buttocks shown at the centre.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89479335).jpg	ADMIT	OK	Christ robed with the scourge of cords; the traders clothed, some bare-chested; no wounds drawn.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89479480).jpg	ADMIT	OK	The widow, Christ, the disciples and the Pharisees fully robed; page caption Mar. 12, 42.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89479571).jpg	ADMIT	OK	The angel in a long robe on the stone; the two women robed and veiled.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89479729).jpg	ADMIT	OK	Christ robed ascending; the disciples robed; page caption Marek 16, 19.	2026-10-19	agent
+File:The Birth of Jesus.jpg	EXCLUDE	NUDITY	The Christ child lies unclothed on the cloth in Mary's lap; a kneeling shepherd is bare-backed. A fully clothed infant would be allowed; this one is not.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89480773).jpg	ADMIT	OK	Christ and the synagogue elders fully robed; page caption Łuk. 4, 16.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89480971).jpg	ADMIT	OK	Christ robed on the shore; the fishermen bare-chested with cloths from the waist hauling the net.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89481384).jpg	ADMIT	OK	Mary Magdalene kneels in a long robe at a rock with a skull, an old symbol of repentance; no body or wound.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89481635).jpg	ADMIT	OK	The Samaritan robed lifts the wounded man, who is clothed, onto the horse; no wounds drawn.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89481730).jpg	ADMIT	OK	The wounded man, clothed, is carried into the inn; the innkeeper and the woman robed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89482272).jpg	ADMIT	OK	The father robed embraces the kneeling son, who wears a robe; servants and dogs around.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89482940).jpg	ADMIT	OK	Christ fallen under the cross in a long robe; Simon and a soldier bare-chested with cloths from the waist; soldiers armoured.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483147).jpg	ADMIT	OK	Christ and the two disciples fully robed on the road.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483578).jpg	ADMIT	OK	Lazarus rises wrapped from head to foot in the shroud; Christ and the others robed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483870).jpg	ADMIT	OK	Christ crowned with thorns, fully robed; the mockers clothed and armoured.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89484283).jpg	ADMIT	OK	Christ on the cross in a loincloth; the men raising it bare-backed with cloths from the waist; the women robed; no wounds drawn.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89484429).jpg	ADMIT	OK	Christ's body lowered in a loincloth (checked zoomed); the men bare-backed with robes from the waist; the women robed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89484603).jpg	ADMIT	OK	Christ's body bare-chested, carried in a shroud covering the hips; the mourners robed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89484689).jpg	ADMIT	OK	The apostles and Mary fully robed under the dove and the tongues of fire.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89484816).jpg	ADMIT	OK	The apostles preach to a robed crowd.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89484920).jpg	ADMIT	OK	Peter and John robed; the lame man in a ragged tunic; the onlookers robed, a child in arms clothed.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89485292).jpg	ADMIT	OK	Saul and his men thrown down in armour and tunics; one soldier bare-chested; no wounds drawn.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89485783).jpg	ADMIT	OK	Paul robed on the rocks; sailors in the surf clothed or bare-backed with cloths; no wounds drawn.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89486085).jpg	ADMIT	OK	The crowned woman robed holds the child, who appears wrapped in a garment (checked zoomed at full scan resolution); the angels robed; the dragon below. Flagged for Stefano's own look.	2026-10-19	agent
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89486421).jpg	EXCLUDE	NUDITY	The damned fall as a mass of unclothed bodies across the lower half of the plate.	2026-10-19	agent

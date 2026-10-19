@@ -1,0 +1,24 @@
+[package]
+name = "computus"
+version = "0.1.0"
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+repository.workspace = true
+publish = false
+description = "Orthodox Paschalion: Julian computus, Julian and Gregorian day numbers, and the movable cycle, for any year."
+
+[lib]
+crate-type = ["rlib", "cdylib"]
+
+[lints.rust]
+missing_docs = "deny"
+
+[lints.clippy]
+pedantic = { level = "deny", priority = -1 }
+nursery = { level = "deny", priority = -1 }
+unwrap_used = "deny"
+expect_used = "deny"
+panic = "deny"
+as_conversions = "deny"
+indexing_slicing = "deny"

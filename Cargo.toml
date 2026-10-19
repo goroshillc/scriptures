@@ -1,0 +1,29 @@
+[workspace]
+resolver = "3"
+members = [
+    "crates/chi-rho",
+    "crates/scriptures",
+    "crates/scriptures/computus",
+    "crates/scripture-search",
+    "crates/scriptures-host",
+    "crates/scriptures-app",
+]
+
+[workspace.package]
+edition = "2024"
+rust-version = "1.97"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/goroshillc/scriptures"
+
+# Every version is exact: a build today and a build next year resolve the same code.
+[workspace.dependencies]
+axum = { version = "=0.8.9", features = ["query", "form", "json"] }
+tokio = { version = "=1.53.2", features = ["macros", "rt-multi-thread", "net", "fs", "signal"] }
+tower = { version = "=0.5.3", features = ["util"] }
+
+[profile.release]
+lto = "fat"
+codegen-units = 1
+opt-level = 3
+strip = "symbols"
+overflow-checks = true

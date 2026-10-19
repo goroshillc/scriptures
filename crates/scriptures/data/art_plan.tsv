@@ -1,0 +1,264 @@
+# The Scriptures - curated art plan. One row per work, tab-separated:
+# commons_file	artist_key	scene	passage (OSIS, or -)	other_ref (outside the 66 books, or -)	note (or -)
+# Licences are NOT recorded here: fetch-art reads them per file from the Commons API.
+File:001.The Creation of Light.jpg	dore	The Creation of Light	Gen.1.1-Gen.1.5	-	-
+File:002.The Creation of Eve.jpg	dore	The Creation of Eve	Gen.2.21-Gen.2.23	-	Commons caption: Gen. 1:26-27, 2:15-25; placed at the creation of Eve, Gen 2:21-23.
+File:003.Adam and Eve Are Driven out of Eden.jpg	dore	Adam and Eve Are Driven out of Eden	Gen.3.22-Gen.3.24	-	Commons gives no reference; placed at the expulsion, Gen 3:22-24.
+File:004.Cain and Abel Offer Their Sacrifices.jpg	dore	Cain and Abel Offer Their Sacrifices	Gen.4.3-Gen.4.5	-	Commons gives no reference; placed at the offerings, Gen 4:3-5.
+File:005.Cain Slays Abel.jpg	dore	Cain Slays Abel	Gen.4.8	-	Commons gives no reference; placed at Gen 4:8.
+File:009.Noah Curses Ham and Canaan.jpg	dore	Noah Curses Ham and Canaan	Gen.9.18-Gen.9.27	-	-
+File:010.The Tower of Babel.jpg	dore	The Tower of Babel	Gen.11.1-Gen.11.9	-	-
+File:011.Abraham Goes to the Land of Canaan.jpg	dore	Abraham Goes to the Land of Canaan	Gen.12.1-Gen.12.6	-	-
+File:012.Abraham and the Three Angels.jpg	dore	Abraham and the Three Angels	Gen.18.1-Gen.18.16	-	-
+File:013.Lot Flees as Sodom and Gomorrah Burn.jpg	dore	Lot Flees as Sodom and Gomorrah Burn	Gen.19.15-Gen.19.26	-	Commons caption: Gen. 19:1-20, 24-36; placed at the flight and the fire, Gen 19:15-26.
+File:015.Hagar and Ishmael in the Wilderness.jpg	dore	Hagar and Ishmael in the Wilderness	Gen.21.14-Gen.21.20	-	-
+File:016.The Testing of Abraham's Faith.jpg	dore	The Testing of Abraham's Faith	Gen.22.2-Gen.22.19	-	-
+File:017.The Burial of Sarah.jpg	dore	The Burial of Sarah	Gen.23.1-Gen.23.20	-	-
+File:018.Eliezer and Rebekah at the Well.jpg	dore	Eliezer and Rebekah at the Well	Gen.24.10-Gen.24.26	-	-
+File:019.The Meeting of Isaac and Rebekah.jpg	dore	The Meeting of Isaac and Rebekah	Gen.24.53-Gen.24.67	-	-
+File:020.Isaac Blesses Jacob.jpg	dore	Isaac Blesses Jacob	Gen.27.1-Gen.27.27	-	-
+File:021.Jacob's Dream.jpg	dore	Jacob's Dream	Gen.28.10-Gen.28.15	-	-
+File:022.Jacob Tends Laban's Flocks and Meets Rachel.jpg	dore	Jacob Tends Laban's Flocks and Meets Rachel	Gen.29.1-Gen.29.20	-	-
+File:023.Jacob Prays for Protection.jpg	dore	Jacob Prays for Protection	Gen.32.9-Gen.32.23	-	-
+File:024.Jacob Wrestles with the Angel.jpg	dore	Jacob Wrestles with the Angel	Gen.32.24-Gen.32.30	-	Commons gives no reference; placed at Gen 32:24-30.
+File:025.Jacob and Esau Meet.jpg	dore	Jacob and Esau Meet	Gen.33.1-Gen.33.20	-	-
+File:026.Joseph Is Sold by His Brothers.jpg	dore	Joseph Is Sold by His Brothers	Gen.37.13-Gen.37.36	-	-
+File:027.Joseph Interprets Pharaoh's Dream.jpg	dore	Joseph Interprets Pharaoh's Dream	Gen.41.15-Gen.41.41	-	-
+File:028.Joseph Reveals Himself to His Brothers.jpg	dore	Joseph Reveals Himself to His Brothers	Gen.45.1-Gen.45.24	-	-
+File:029.Jacob Goes to Egypt.jpg	dore	Jacob Goes to Egypt	Gen.46.1-Gen.46.6	-	-
+File:032.Moses and Aaron Appear before Pharaoh.jpg	dore	Moses and Aaron Appear before Pharaoh	Exod.7.1-Exod.7.10	-	Commons caption: Ex. 6:26-30, 7:1-10.
+File:033.The Fifth Plague. Livestock Disease.jpg	dore	The Fifth Plague: Livestock Disease	Exod.9.2-Exod.9.3	-	-
+File:036.The Egyptians Ask Moses to Depart.jpg	dore	The Egyptians Ask Moses to Depart	Exod.12.30-Exod.12.32	-	-
+File:037.The Egyptians Drown in the Sea.jpg	dore	The Egyptians Drown in the Sea	Exod.14.21-Exod.14.29	-	Commons caption: Ex. 14:5-8, 13-29; placed at the crossing, Ex 14:21-29.
+File:038.The Giving of the Law on Mount Sinai.jpg	dore	The Giving of the Law on Mount Sinai	Exod.19.9-Exod.19.24	-	-
+File:039.Moses Comes Down from Mount Sinai.jpg	dore	Moses Comes Down from Mount Sinai	Exod.19.25-Exod.20.17	-	-
+File:040.The Death of Korah, Dathan, and Abiram.jpg	dore	The Death of Korah, Dathan, and Abiram	Num.16.20-Num.16.35	-	-
+File:042.The Bronze Serpent.jpg	dore	The Bronze Serpent	Num.21.4-Num.21.9	-	-
+File:043.An Angel Appears to Balaam.jpg	dore	An Angel Appears to Balaam	Num.22.21-Num.22.35	-	Commons caption reads Num 23:15-35; the angel meets Balaam in Num 22:21-35.
+File:046.The Walls of Jericho Fall Down.jpg	dore	The Walls of Jericho Fall Down	Josh.6.1-Josh.6.20	-	Commons caption: Josh. 5:16 (Vulgate numbering), 6:1-10, 13-19.
+File:047.Joshua Spares Rahab.jpg	dore	Joshua Spares Rahab	Josh.6.20-Josh.6.24	-	-
+File:048.Achan Is Stoned to Death.jpg	dore	Achan Is Stoned to Death	Josh.7.19-Josh.7.26	-	Commons caption: Josh. 7:1, 10-26.
+File:049.Joshua Burns the Town of Ai.jpg	dore	Joshua Burns the Town of Ai	Josh.8.1-Josh.8.19	-	-
+File:050.The Army of the Amorites Is Destroyed.jpg	dore	The Army of the Amorites Is Destroyed	Josh.10.1-Josh.10.11	-	-
+File:051.Joshua Commands the Sun to Stand Still.jpg	dore	Joshua Commands the Sun to Stand Still	Josh.10.12-Josh.10.14	-	-
+File:052.Jael Kills Sisera.jpg	dore	Jael Kills Sisera	Judg.4.6-Judg.4.22	-	-
+File:053.Deborah Praises Jael.jpg	dore	Deborah Praises Jael	Judg.5.1-Judg.5.31	-	Commons caption: Jud. 5:1-3, 24-31.
+File:054.Gideon Chooses 300 Soldiers.jpg	dore	Gideon Chooses 300 Soldiers	Judg.7.1-Judg.7.7	-	-
+File:055.The Midianites Are Routed.jpg	dore	The Midianites Are Routed	Judg.7.9-Judg.7.25	-	-
+File:056.The Death of Gideon's Sons.jpg	dore	The Death of Gideon's Sons	Judg.9.1-Judg.9.6	-	-
+File:057.The Death of Abimelech.jpg	dore	The Death of Abimelech	Judg.9.50-Judg.9.56	-	-
+File:058.Jephthah's Daughter Comes to Meet Her Father.jpg	dore	Jephthah's Daughter Comes to Meet Her Father	Judg.11.34-Judg.11.36	-	-
+File:059.Israelite Women Mourn with Jephthah's Daughter.jpg	dore	Israelite Women Mourn with Jephthah's Daughter	Judg.11.37-Judg.11.40	-	-
+File:060.Samson Slays a Lion.jpg	dore	Samson Slays a Lion	Judg.14.1-Judg.14.6	-	-
+File:061.Samson Destroys the Philistines with an Ass' Jawbone.jpg	dore	Samson Destroys the Philistines with an Ass's Jawbone	Judg.15.1-Judg.15.17	-	-
+File:062.Samson Carries away the Gates of Gaza.jpg	dore	Samson Carries away the Gates of Gaza	Judg.16.1-Judg.16.13	-	-
+File:063.Samson and Delilah.jpg	dore	Samson and Delilah	Judg.16.4-Judg.16.19	-	-
+File:064.The Death of Samson.jpg	dore	The Death of Samson	Judg.16.25-Judg.16.31	-	Commons caption: Jud. 16:25-34; the King James chapter has 31 verses.
+File:065.A Levite Finds a Woman's Corpse.jpg	dore	A Levite Finds a Woman's Corpse	Judg.19.16-Judg.19.27	-	-
+File:066.The Levite Carries the Woman's Body Away.jpg	dore	The Levite Carries the Woman's Body Away	Judg.19.28-Judg.19.30	-	-
+File:067.The Benjaminites Take the Virgins of Jabesh-gilead.jpg	dore	The Benjaminites Take the Virgins of Jabesh-gilead	Judg.21.15-Judg.21.25	-	-
+File:068.Naomi and Her Daughters-in-Law.jpg	dore	Naomi and Her Daughters-in-Law	Ruth.1.3-Ruth.1.22	-	-
+File:069.Ruth and Boaz.jpg	dore	Ruth and Boaz	Ruth.2.2-Ruth.2.20	-	-
+File:070.The Ark Is Returned to Beth-shemesh.jpg	dore	The Ark Is Returned to Beth-shemesh	1Sam.6.1-1Sam.6.16	-	-
+File:071.The Death of Agag.jpg	dore	The Death of Agag	1Sam.15.32-1Sam.15.33	-	-
+File:072.Saul Attempts to Kill David.jpg	dore	Saul Attempts to Kill David	1Sam.18.6-1Sam.18.14	-	-
+File:073.David Escapes through a Window.jpg	dore	David Escapes through a Window	1Sam.19.11-1Sam.19.18	-	-
+File:074.David Shows Saul How He Spared His Life.jpg	dore	David Shows Saul How He Spared His Life	1Sam.24.2-1Sam.24.20	-	-
+File:075.Saul and the Witch of Endor.jpg	dore	Saul and the Witch of Endor	1Sam.28.7-1Sam.28.25	-	-
+File:076.The Death of Saul.jpg	dore	The Death of Saul	1Sam.31.1-1Sam.31.6	-	-
+File:077.Jabesh-Gileadites Recover the Bodies of Saul and His Sons.jpg	dore	Jabesh-Gileadites Recover the Bodies of Saul and His Sons	1Sam.31.8-1Sam.31.13	-	Commons caption: 1Sam. 31:8-15; the King James chapter has 13 verses.
+File:078.Combat between Soldiers of Ish-bosheth and David.jpg	dore	Combat between Soldiers of Ish-bosheth and David	2Sam.2.5-2Sam.2.17	-	-
+File:079.David Attacks the Ammonites.jpg	dore	David Attacks the Ammonites	2Sam.12.26-2Sam.12.31	-	-
+File:080.The Death of Absalom.jpg	dore	The Death of Absalom	2Sam.18.1-2Sam.18.15	-	-
+File:081.David Mourns the Death of Absalom.jpg	dore	David Mourns the Death of Absalom	2Sam.18.33	-	-
+File:082.Rizpah’s Kindness toward the Dead.jpg	dore	Rizpah’s Kindness toward the Dead	2Sam.21.8-2Sam.21.14	-	-
+File:083.Abishai Saves David's Life.jpg	dore	Abishai Saves David's Life	2Sam.21.15-2Sam.21.17	-	-
+File:085.Cedars Are Cut Down for the Jerusalem Temple.jpg	dore	Cedars Are Cut Down for the Jerusalem Temple	1Kgs.5.1-1Kgs.5.18	-	Commons caption reads 2Sam. 5:1-18; the cedars are hewn for the Temple in 1 Kings 5:1-18.
+File:086.Solomon Receives the Queen of Sheba.jpg	dore	Solomon Receives the Queen of Sheba	1Kgs.10.1-1Kgs.10.13	-	-
+File:087.King Solomon in Old Age.jpg	dore	King Solomon in Old Age	1Kgs.4.29-1Kgs.4.34	-	-
+File:088.The Disobedient Prophet Is Slain by a Lion.jpg	dore	The Disobedient Prophet Is Slain by a Lion	1Kgs.13.11-1Kgs.13.34	-	-
+File:090.The Prophets of Baal Are Slaughtered.jpg	dore	The Prophets of Baal Are Slaughtered	1Kgs.18.20-1Kgs.18.40	-	-
+File:091.Elijah Is Nourished by an Angel.jpg	dore	Elijah Is Nourished by an Angel	1Kgs.19.1-1Kgs.19.21	-	-
+File:092.The Israelites Slaughter the Syrians.jpg	dore	The Israelites Slaughter the Syrians	1Kgs.20.26-1Kgs.20.34	-	-
+File:093.The Death of Ahab.jpg	dore	The Death of Ahab	1Kgs.22.29-1Kgs.22.40	-	-
+File:094.Elijah Destroys the Messengers of Ahaziah.jpg	dore	Elijah Destroys the Messengers of Ahaziah	2Kgs.1.3-2Kgs.1.14	-	-
+File:095.Elijah Ascends to Heaven in a Chariot of Fire.jpg	dore	Elijah Ascends to Heaven in a Chariot of Fire	2Kgs.2.1-2Kgs.2.15	-	-
+File:096.A Famine in Samaria.jpg	dore	A Famine in Samaria	2Kgs.6.18-2Kgs.6.30	-	-
+File:097.The Death of Jezebel.jpg	dore	The Death of Jezebel	2Kgs.9.22-2Kgs.9.33	-	-
+File:098.Jehu's Companions Find Jezebel's Remains.jpg	dore	Jehu's Companions Find Jezebel's Remains	2Kgs.9.34-2Kgs.9.37	-	-
+File:099.The Death of Athaliah.jpg	dore	The Death of Athaliah	2Kgs.11.1-2Kgs.11.20	-	-
+File:101.Sennacherib's Army Is Destroyed.jpg	dore	Sennacherib's Army Is Destroyed	2Kgs.19.20-2Kgs.19.35	-	-
+File:103.The Ammonite and Moabite Armies Are Destroyed.jpg	dore	The Ammonite and Moabite Armies Are Destroyed	2Chr.20.14-2Chr.20.30	-	-
+File:104.Cyrus Restores the Vessels of the Temple.jpg	dore	Cyrus Restores the Vessels of the Temple	Ezra.1.1-Ezra.1.11	-	-
+File:105.The Rebuilding of the Temple Is Begun.jpg	dore	The Rebuilding of the Temple Is Begun	Ezra.3.8-Ezra.3.13	-	Commons caption repeats Ezr. 1:1-11; the foundation of the Temple is laid in Ezra 3:8-13.
+File:106.Artaxerxes Grants Freedom to the Jews.jpg	dore	Artaxerxes Grants Freedom to the Jews	Ezra.7.1-Ezra.7.15	-	-
+File:107.Ezra Kneels in Prayer.jpg	dore	Ezra Kneels in Prayer	Ezra.9.1-Ezra.9.15	-	-
+File:108.Nehemiah Views the Ruins of Jerusalem's Walls.jpg	dore	Nehemiah Views the Ruins of Jerusalem's Walls	Neh.2.1-Neh.2.20	-	-
+File:109.Ezra Reads the Law to the People.jpg	dore	Ezra Reads the Law to the People	Neh.8.1-Neh.8.12	-	-
+File:110.Tobias and the Angel.jpg	dore	Tobias and the Angel	-	Tobit 6:1-18	-
+File:111.The Angel Raphael and the Family of Tobit.jpg	dore	The Angel Raphael and the Family of Tobit	-	Tobit 12:1-12	-
+File:112.Judith and Holofernes.jpg	dore	Judith and Holofernes	-	Judith 13:1-10	Commons gives no reference.
+File:113.Judith Shows the Head of Holofernes.jpg	dore	Judith Shows the Head of Holofernes	-	Judith 13:14-20	-
+File:114.Queen Vashti Refuses to Obey Ahasuerus' Command.jpg	dore	Queen Vashti Refuses to Obey Ahasuerus' Command	Esth.1.10-Esth.1.22	-	-
+File:115.Esther Before the King.jpg	dore	Esther Before the King	Esth.5.1-Esth.5.8	-	-
+File:117.Esther Accuses Haman.jpg	dore	Esther Accuses Haman	Esth.7.1-Esth.7.10	-	-
+File:118.Job Hears of His Misfortunes.jpg	dore	Job Hears of His Misfortunes	Job.1.1-Job.1.22	-	-
+File:119.Job Speaks with His Friends.jpg	dore	Job Speaks with His Friends	Job.2.1-Job.2.13	-	-
+File:120.The Prophet Isaiah.jpg	dore	The Prophet Isaiah	Isa.1.1-Isa.1.7	-	-
+File:121.Isaiah's Vision of the Destruction of Babylon.jpg	dore	Isaiah's Vision of the Destruction of Babylon	Isa.13.1-Isa.13.22	-	-
+File:122.The Destruction of Leviathan.jpg	dore	The Destruction of Leviathan	Isa.27.1-Isa.27.13	-	-
+File:123.Baruch Writes Jeremiah's Prophecies.jpg	dore	Baruch Writes Jeremiah's Prophecies	Jer.36.4	-	-
+File:123.The Prophet Jeremiah.jpg	dore	The Prophet Jeremiah	Jer.1.1-Jer.1.10	-	Commons caption: Prophet Jeremiah, no reference; placed at the call of Jeremiah, Jer 1.
+File:125.Baruch.jpg	dore	Baruch	-	Baruch 1:1; 2:1-23	-
+File:126.The Prophet Ezekiel.jpg	dore	The Prophet Ezekiel	Ezek.14.1-Ezek.14.21	-	-
+File:127.Ezekiel’s Vision of the Valley of Dry Bones.jpg	dore	Ezekiel's Vision of the Valley of Dry Bones	Ezek.37.1-Ezek.37.14	-	-
+File:128.Daniel among the Exiles.jpg	dore	Daniel among the Exiles	Dan.2.26-Dan.2.49	-	Commons caption: Dan. 2:26, 31-49.
+File:129.Shadrach, Meshach and Abednego in the Furnace.jpg	dore	Shadrach, Meshach and Abednego in the Furnace	Dan.3.19-Dan.3.27	-	Commons caption: Dan. 3:23-24, 91-98 (Greek numbering); the King James numbering is Dan 3:19-27.
+File:130.Daniel Interprets the Writing on the Wall.jpg	dore	Daniel Interprets the Writing on the Wall	Dan.5.1-Dan.5.17	-	-
+File:131.Daniel in the Lions' Den.jpg	dore	Daniel in the Lions' Den	Dan.6.16-Dan.6.23	-	Commons caption: Dan. 6:11-29 (another numbering); the King James numbering is Dan 6:16-23.
+File:132.Daniel's Vision of the Four Beasts.jpg	dore	Daniel's Vision of the Four Beasts	Dan.7.2-Dan.7.18	-	-
+File:133.Susanna in the Bath.jpg	dore	Susanna in the Bath	-	Susanna 1-26 (Daniel 13 in the Greek Bible)	-
+File:134.The Justification of Susanna.jpg	dore	The Justification of Susanna	-	Susanna 36-64 (Daniel 13 in the Greek Bible)	-
+File:135.Daniel Confounds the Priests of Bel.jpg	dore	Daniel Confounds the Priests of Bel	-	Bel and the Dragon 1-27 (Daniel 14 in the Greek Bible)	-
+File:136.The Prophet Amos.jpg	dore	The Prophet Amos	Amos.1.1-Amos.1.15	-	-
+File:137.Jonah Is Spewed Forth by the Whale.jpg	dore	Jonah Is Spewed Forth by the Whale	Jonah.2.1-Jonah.2.10	-	Commons caption: Jon. 2:1-11 (another numbering); the King James chapter has 10 verses.
+File:138.Jonah Preaches to the Ninevites.jpg	dore	Jonah Preaches to the Ninevites	Jonah.3.1-Jonah.3.10	-	-
+File:139.Micah Exhorts the Israelites to Repent.jpg	dore	Micah Exhorts the Israelites to Repent	Mic.7.1-Mic.7.20	-	-
+File:140.Zechariah's Vision of Four Chariots.jpg	dore	Zechariah's Vision of Four Chariots	Zech.6.1-Zech.6.15	-	-
+File:141.Mattathias and the Apostate.jpg	dore	Mattathias and the Apostate	-	1 Maccabees 2:1-25	-
+File:142.Matthias Appealing to Jewish Refugees.jpg	dore	Mattathias Appeals to the Jewish Refugees	-	1 Maccabees 2:42-70	-
+File:143.Judas Maccabeus Pursues Timotheus.jpg	dore	Judas Maccabeus Pursues Timotheus	-	1 Maccabees 5:28-44	-
+File:144.The Death of Eleazar.jpg	dore	The Death of Eleazar	-	1 Maccabees 6:33-46	-
+File:145.Judas Maccabeus before the Army of Nicanor.jpg	dore	Judas Maccabeus before the Army of Nicanor	-	1 Maccabees 7:26-32	-
+File:146.Jonathan Destroys the Temple of Dagon.jpg	dore	Jonathan Destroys the Temple of Dagon	-	1 Maccabees 10:60-85	-
+File:147.Heliodorus Is Cast Down.jpg	dore	Heliodorus Is Cast Down	-	2 Maccabees 3:23-40	-
+File:148.The Army Appears in the Heavens.jpg	dore	The Army Appears in the Heavens	-	2 Maccabees 5:1-4	-
+File:149.The Martyrdom of Eleazar the Scribe.jpg	dore	The Martyrdom of Eleazar the Scribe	-	2 Maccabees 6:18-31	-
+File:150.The Courage of a Mother.jpg	dore	The Courage of a Mother	-	2 Maccabees 7:20-42	-
+File:151.The Punishment of Antiochus.jpg	dore	The Punishment of Antiochus	-	2 Maccabees 9:1-9	-
+File:152.The Angel Is Sent to Deliver Israel.jpg	dore	The Angel Is Sent to Deliver Israel	-	2 Maccabees 15:20-24	-
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89480043).jpg	dore	The Annunciation	Luke.1.26-Luke.1.38	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 480 px file (Gustave Dore - The Annunciation.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89480558).jpg	dore	Jesus Converses with the Doctors in the Temple	Luke.2.46-Luke.2.47	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 482 px file (Gustave Dore - Jesus converses with the learned ones in the Temple.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89475624).jpg	dore	The Baptism of Jesus	Matt.3.13-Matt.3.17	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 475 px file (Gustave Dore - John the Baptist baptizes Jesus.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89481200).jpg	dore	Jesus Preaching at the Sea of Galilee	Mark.4.1-Mark.4.2	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 477 px file; the plate's own caption cites Luke 5:3 (DoreJesusSeaGalilee.jpg).
+File:Dore Bible Sermon on the Mount.jpg	dore	The Sermon on the Mount	Matt.5.1-Matt.5.12	-	-
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483276).jpg	dore	The Marriage at Cana	John.2.1-John.2.11	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 771 px file (Marriage at Cana engraving by Gustave Doré.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483382).jpg	dore	Jesus and the Woman of Samaria	John.4.7-John.4.26	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 784 px file (Ιησούς και Σαμαρείτιδα.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89479109).jpg	dore	Jesus Stilling the Tempest	Mark.4.37-Mark.4.41	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 481 px file (JesusCalmingtheTempestDore.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89476805).jpg	dore	Jesus Walks on the Sea	Matt.14.25-Matt.14.31	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 602 px file (Jesus walks on the sea.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89481515).jpg	dore	Jesus Raises the Daughter of Jairus	Mark.5.35-Mark.5.43	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 482 px file (Gustave Dore - Jesus raises the daughter of Jairus from the dead.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89477161).jpg	dore	The Transfiguration	Matt.17.1-Matt.17.8	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 497 px file (Gustave Dore - The Transfiguration.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89481903).jpg	dore	Jesus with Mary and Martha	Luke.10.38-Luke.10.42	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 482 px file (Jesus talks with Mary and Martha in their house.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89482051).jpg	dore	The Prodigal Son	Luke.15.17-Luke.15.20	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 602 px file (Gustave Dore - The prodigal son decides to return to his father.jpg).
+File:Lazarus and the Rich Man (89482442).jpg	dore	Lazarus and the Rich Man	Luke.16.19-Luke.16.31	-	-
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89482647).jpg	dore	The Pharisee and the Publican	Luke.18.10-Luke.18.14	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 476 px file (The Pharisee and the publican.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483469).jpg	dore	Jesus and the Woman Taken in Adultery	John.8.3-John.8.11	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 561 px file (Dore adultress.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89477540).jpg	dore	The Entry into Jerusalem	Matt.21.6-Matt.21.11	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 485 px file (Gustave Dore - Jesus rides into Jerusalem on a donkey on Palm Sunday.jpg).
+File:Dispute of Jesus and the Pharisees (89477737).jpg	dore	The Tribute Money	Matt.22.15-Matt.22.22	-	-
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89478051).jpg	dore	The Last Supper	Luke.22.14-Luke.22.20	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 475 px file (Jesus and the disciples at the Last Supper.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89478813).jpg	dore	Jesus Praying in the Garden	Matt.26.36-Matt.26.39	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 546 px file (DoreJesusPrayingintheGarden.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89482762).jpg	dore	The Agony in the Garden	Luke.22.41-Luke.22.44	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 474 px file (Jesus suffers agony in the garden of Gethseman.jpg).
+File:Gustave Doré - The Holy Bible - Plate CXLI, The Judas Kiss.jpg	dore	The Judas Kiss	Mark.14.43-Mark.14.46	-	-
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89478925).jpg	dore	Peter Denies Christ	Luke.22.54-Luke.22.62	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 750 px file (Gustave Doré, St Peter Denying Christ.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483694).jpg	dore	The Scourging	John.19.1	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 476 px file (Jesus is scourged.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483941).jpg	dore	Christ Presented to the People	John.19.4-John.19.5	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 400 px file (Christ Presented to the PeopleDore.jpg).
+File:DoreArrivalatCalvary.jpg	dore	The Arrival at Calvary	Mark.15.22-Mark.15.23	-	-
+File:Gustave Doré - Crucifixion of Jesus.jpg	dore	Jesus Is Nailed to the Cross	John.19.17-John.19.18	-	Scan of the plate; the 2756 px scan of the 1866 Sainte Bible plate; replaces a 478 px file (Gustave Dore - Jesus is nailed to the cross.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483040).jpg	dore	The Darkness at the Crucifixion	Luke.23.44-Luke.23.46	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 556 px file (Crucifixiondarkness.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89484501).jpg	dore	The Dead Christ	John.19.38-John.19.40	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces an 831 px file (The Dead Christ — Doré Bible illustration (Cassell, c.1870).jpg).
+File:DoreDeathofAnanias.jpg	dore	The Death of Ananias	Acts.5.1-Acts.5.5	-	-
+File:The Death of Stephen (89485178).jpg	dore	The Death of Stephen	Acts.7.54-Acts.7.60	-	-
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89485361).jpg	dore	Peter at the House of Cornelius	Acts.10.24-Acts.10.27	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 562 px file (StPeterattheHouseofCornelius.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89485423).jpg	dore	Peter Delivered from Prison	Acts.12.5-Acts.12.10	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 559 px file (Peter'sEscapefromPrison.jpg).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89485452).jpg	dore	Paul Preaching to the Thessalonians	Acts.17.1-Acts.17.4	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 565 px file (DoreStPaulPreachingtotheThessalonians.jpg).
+File:Paul in Ephesus (89485605).jpg	dore	Paul at Ephesus	Acts.19.17-Acts.19.20	-	Commons gives no reference; placed at Acts 19:17-20.
+File:Paul Addresses the Crowd After His Arrest (89485728).jpg	dore	Paul Addresses the Crowd after His Arrest	Acts.21.39-Acts.21.40	-	-
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89485903).jpg	dore	John on Patmos	Rev.1.9-Rev.1.11	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 750 px file (St.JohnatPatmosDore.jpg).
+File:Gustave Doré - Death on the Pale Horse (1865).jpg	dore	Death on the Pale Horse	Rev.6.8	-	-
+File:Dorebabylon-fallen.jpg	dore	Babylon Fallen	Rev.18.1-Rev.18.2	-	-
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89486509).jpg	dore	The New Jerusalem	Rev.21.1-Rev.21.2	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned; replaces a 750 px file; the plate's own caption cites Revelation 21:10 (Dore nwe jeruzalem grt.jpg).
+File:Albrecht Dürer, Adam and Eve, 1504, NGA 6610.jpg	durer-engraving	Adam and Eve	Gen.3.6	-	-
+File:Albrecht Dürer, Cain Killing Abel, 1511, NGA 6789.jpg	durer	Cain Killing Abel	Gen.4.8	-	-
+File:Albrecht Dürer, Christ Carrying the Cross, c. 1498-1499, NGA 6738.jpg	durer	Christ Carrying the Cross	John.19.16-John.19.17	-	-
+File:Albrecht Dürer, Ecce Homo, c. 1498-1499, NGA 6737.jpg	durer	Ecce Homo	John.19.5	-	-
+File:Albrecht Dürer, Pentecost, probably c. 1509-1510, NGA 6785.jpg	durer	Pentecost	Acts.2.1-Acts.2.4	-	-
+File:Albrecht Dürer, The Vision of the Seven Candlesticks, 1498, NGA 142350.jpg	durer	The Vision of the Seven Candlesticks	Rev.1.12-Rev.1.16	-	-
+File:Albrecht Dürer, The Four Horsemen, 1498, NGA 142352.jpg	durer	The Four Horsemen	Rev.6.1-Rev.6.8	-	-
+File:Albrecht Dürer, The Four Angels Holding the Winds, 1498, NGA 142354.jpg	durer	The Four Angels Holding the Winds	Rev.7.1-Rev.7.3	-	-
+File:Albrecht Dürer, The Seven Angels with the Trumpets, 1498, NGA 142355.jpg	durer	The Seven Angels with the Trumpets	Rev.8.2-Rev.8.13	-	-
+File:Albrecht Dürer, The Four Avenging Angels, 1498, NGA 142356.jpg	durer	The Four Avenging Angels	Rev.9.13-Rev.9.15	-	-
+File:Albrecht Dürer, Saint Michael Fighting the Dragon, 1498, NGA 142359.jpg	durer	Saint Michael Fighting the Dragon	Rev.12.7-Rev.12.9	-	-
+File:Albrecht Dürer, The Beast with Two Horns LIke a Lamb, 1498, NGA 142360.jpg	durer	The Beast with Two Horns like a Lamb	Rev.13.11-Rev.13.18	-	-
+File:Albrecht Dürer, The Adoration of the Lamb, 1498, NGA 142361.jpg	durer	The Adoration of the Lamb	Rev.14.1-Rev.14.5	-	-
+File:Albrecht Dürer, The Whore of Babylon, 1498, NGA 142362.jpg	durer	The Whore of Babylon	Rev.17.1-Rev.17.6	-	-
+File:Albrecht Dürer, The Angel with the Key to the Bottomless Pit, 1498, NGA 142363.jpg	durer	The Angel with the Key to the Bottomless Pit	Rev.20.1-Rev.20.3	-	-
+File:Titian - Annunciation - San Rocco.jpg	titian	The Annunciation	Luke.1.26-Luke.1.38	-	-
+File:Titian - The Tribute Money - Google Art Project.jpg	titian	The Tribute Money	Matt.22.17-Matt.22.21	-	-
+File:Cristo camino del Calvario, de Tiziano (Museo del Prado).jpg	titian	Christ Carrying the Cross	John.19.17	-	-
+File:Le Transport du Christ vers le tombeau - Titien - Musée du Louvre Peintures INV 749.jpg	titian	The Entombment	John.19.40-John.19.42	-	-
+File:Titian - Noli me Tangere - Google Art Project.jpg	titian	Noli me tangere	John.20.14-John.20.17	-	-
+File:Les Pèlerins d'Emmaüs - Titien - Musée du Louvre Peintures INV 746 ; MR 517.jpg	titian	The Supper at Emmaus	Luke.24.30-Luke.24.31	-	-
+# 2026-10-19: every further Doré Bible plate available on Wikimedia Commons.
+File:006.The World Is Destroyed by Water.jpg	dore	The World Is Destroyed by Water	Gen.7.17-Gen.7.24	-	Commons caption: Gen. 7:1-10; placed at the waters prevailing, Gen 7:17-24.
+File:007.The Great Flood.jpg	dore	The Great Flood	Gen.7.11-Gen.7.12	-	-
+File:008.A Dove Is Sent Forth from the Ark.jpg	dore	A Dove Is Sent Forth from the Ark	Gen.8.8-Gen.8.12	-	Commons caption: Gen. 8:1-13.
+File:014.Abraham Sends Hagar and Ishmael Away.jpg	dore	Abraham Sends Hagar and Ishmael Away	Gen.21.14	-	Commons caption: Gen. 21:1-14.
+File:030.The Child Moses on the Nile.jpg	dore	The Child Moses on the Nile	Exod.2.3-Exod.2.4	-	Commons caption: Ex. 1:8-22, 2:1-4.
+File:031.The Finding of Moses.jpg	dore	The Finding of Moses	Exod.2.5-Exod.2.10	-	-
+File:034.The Ninth Plague. Darkness.jpg	dore	The Ninth Plague: Darkness	Exod.10.21-Exod.10.23	-	-
+File:035.The Firstborn of the Egyptians Are Slain.jpg	dore	The Firstborn of the Egyptians Are Slain	Exod.12.29-Exod.12.30	-	Commons caption: Ex. 12:21-29.
+File:041A.Moses Breaks the Tables of the Law.jpg	dore	Moses Breaks the Tables of the Law	Exod.32.19	-	-
+File:041.Moses Strikes the Rock at Horeb.jpg	dore	Moses Strikes the Rock at Horeb	Num.20.10-Num.20.11	-	Commons caption: Num. 20:1-11.
+File:041B.The Spies Return from the Promised Land.jpg	dore	The Spies Return from the Promised Land	Num.13.26-Num.13.27	-	-
+File:044. The Israelites Cross the Jordan River.jpg	dore	The Israelites Cross the Jordan River	Josh.3.14-Josh.3.17	-	Commons caption: Josh. 3:1-17.
+File:045. An Angel Appears to the Israelites.jpg	dore	An Angel Appears to Joshua	Josh.5.13-Josh.5.15	-	Commons title: An Angel Appears to the Israelites (Josh. 5:9-15); placed at the captain of the host of the LORD, Josh 5:13-15.
+File:070A.Samuel Blesses Saul.jpg	dore	Samuel Blesses Saul	1Sam.9.17	-	-
+File:071A.David Slays Goliath.jpg	dore	David Slays Goliath	1Sam.17.49-1Sam.17.51	-	-
+File:073A.David and Jonathan.jpg	dore	David and Jonathan	1Sam.20.41-1Sam.20.42	-	Commons caption: 1 Sam. 20:42.
+File:084.The Judgment of Solomon.jpg	dore	The Judgment of Solomon	1Kgs.3.24-1Kgs.3.27	-	Commons caption: 1 Kings 3:16-28.
+File:089.Elijah Raises the Son of the Widow of Zarephath.jpg	dore	Elijah Raises the Son of the Widow of Zarephath	1Kgs.17.21-1Kgs.17.23	-	Commons caption: 1 Kings 17:1-24.
+File:095.Some Children Are Destroyed by Bears.jpg	dore	Children Are Destroyed by Bears	2Kgs.2.23-2Kgs.2.24	-	-
+File:100.Foreign Nations Are Slain by Lions in Samaria.jpg	dore	Foreign Nations Are Slain by Lions in Samaria	2Kgs.17.25-2Kgs.17.26	-	Commons caption: 2 Kings 17:20-26.
+File:102.Zedekiah's Sons Are Slaughtered before His Eyes.jpg	dore	Zedekiah's Sons Are Slain before His Eyes	2Kgs.25.6-2Kgs.25.7	-	-
+File:102A.The Plague of Jerusalem.jpg	dore	The Plague of Jerusalem	1Chr.21.14-1Chr.21.16	-	Commons caption: 1 Chron. 21:15.
+File:116.The Triumph of Mordecai.jpg	dore	The Triumph of Mordecai	Esth.6.10-Esth.6.11	-	Commons caption: Est. 6:10-13.
+File:124.People Mourn over the Destruction of Jerusalem.jpg	dore	People Mourn over the Ruins of Jerusalem	Lam.1.1-Lam.1.5	-	-
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89474948).jpg	dore	The Wise Men Guided by the Star	Matt.2.9-Matt.2.10	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89475072).jpg	dore	The Flight into Egypt	Matt.2.13-Matt.2.15	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89475211).jpg	dore	The Massacre of the Innocents	Matt.2.16-Matt.2.18	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89475438).jpg	dore	John the Baptist Preaching in the Wilderness	Matt.3.1-Matt.3.6	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89475772).jpg	dore	The Temptation of Jesus	Matt.4.8-Matt.4.10	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89475971).jpg	dore	Jesus Teaching the People	Matt.4.23	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Jesus healing the sick (89476181).jpg	dore	Jesus Healing the Sick	Matt.4.24	-	Plate from the Warsaw 1874 edition (National Library of Poland via Polona), extracted on Commons.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89476500).jpg	dore	Jesus Heals a Man	Matt.8.2-Matt.8.4	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89476651).jpg	dore	The Disciples Pluck Ears of Corn on the Sabbath	Matt.12.1-Matt.12.2	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89476956).jpg	dore	Jesus Feeds the Multitude	Matt.14.19-Matt.14.21	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89477370).jpg	dore	Jesus Healing the Lunatic	Matt.17.14-Matt.17.18	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89478982).jpg	dore	Christ Mocked	Matt.27.27-Matt.27.31	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89479023).jpg	dore	The Crucifixion	Matt.27.45-Matt.27.50	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89479213).jpg	dore	Christ Blessing Little Children	Mark.10.13-Mark.10.16	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89479335).jpg	dore	The Buyers and Sellers Driven out of the Temple	Mark.11.15-Mark.11.17	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89479480).jpg	dore	The Widow's Mite	Mark.12.41-Mark.12.44	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89479571).jpg	dore	The Angel at the Sepulchre	Mark.16.5-Mark.16.7	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89479729).jpg	dore	The Ascension	Mark.16.19	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:The Birth of Jesus.jpg	dore	The Nativity	Luke.2.15-Luke.2.16	-	4596 px scan of the plate (Luke 2:16).
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89480773).jpg	dore	Jesus in the Synagogue at Nazareth	Luke.4.16-Luke.4.21	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89480971).jpg	dore	The Miraculous Draught of Fishes	Luke.5.4-Luke.5.7	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89481384).jpg	dore	Mary Magdalene Repentant	Luke.7.37-Luke.7.38	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89481635).jpg	dore	The Good Samaritan	Luke.10.33-Luke.10.34	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89481730).jpg	dore	The Good Samaritan Arrives at the Inn	Luke.10.34-Luke.10.35	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89482272).jpg	dore	The Return of the Prodigal Son	Luke.15.20-Luke.15.24	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89482940).jpg	dore	Jesus Falls beneath the Cross	Luke.23.26-Luke.23.27	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483147).jpg	dore	The Journey to Emmaus	Luke.24.13-Luke.24.16	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483578).jpg	dore	The Raising of Lazarus	John.11.41-John.11.44	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89483870).jpg	dore	The Crown of Thorns	John.19.2-John.19.3	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89484283).jpg	dore	The Raising of the Cross	John.19.18	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89484429).jpg	dore	The Descent from the Cross	John.19.38	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89484603).jpg	dore	The Burial of Christ	John.19.40-John.19.42	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89484689).jpg	dore	The Descent of the Holy Spirit	Acts.2.1-Acts.2.4	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89484816).jpg	dore	The Apostles Preach the Gospel	Acts.2.41-Acts.2.42	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89484920).jpg	dore	Peter and John Heal the Lame Man	Acts.3.1-Acts.3.8	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89485292).jpg	dore	The Conversion of Saul	Acts.9.3-Acts.9.6	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89485783).jpg	dore	Paul Shipwrecked	Acts.27.41-Acts.27.44	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89486085).jpg	dore	The Crowned Virgin: A Vision of John	Rev.12.1-Rev.12.5	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.
+File:Pismo Swiete Starego i Nowego Testamentu. T. 2 1874 (89486421).jpg	dore	The Last Judgment	Rev.20.11-Rev.20.15	-	Plate page from the Warsaw 1873-1874 edition of the Doré Bible (National Library of Poland via Polona), shown whole as scanned.

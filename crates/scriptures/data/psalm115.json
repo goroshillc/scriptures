@@ -1,0 +1,14 @@
+{
+  "his_line": "Non Nobis Oblige ☧ Μὴ ἡμῖν, Κύριε ☧ לֹא לָנוּ יְהוָה ☧",
+  "his_line_source": "Stefano Theofanous, 2026-10-12, exactly as written (the separators are drawn as the Chi Rho)",
+  "reference": "Psalm 115:1 (Hebrew and KJV) = Psalm 113:9 (Septuagint) = Psalm 113:9 (Vulgate)",
+  "hebrew": "לֹא לָנוּ יְהוָה לֹא לָנוּ כִּי־לְשִׁמְךָ תֵּן כָּבוֹד עַל־חַסְדְּךָ עַל־אֲמִתֶּךָ׃",
+  "hebrew_source": "Westminster Leningrad Codex (UXLC 2.5), Ps 115:1, cantillation marks removed; checked against Ginsburg 1894 p. 1300",
+  "greek": "μὴ ἡμῖν, Κύριε, μὴ ἡμῖν, ἀλλ' ἢ τῷ ὀνόματί σου δὸς δόξαν ἐπὶ τῷ ἐλέει σου καὶ τῇ ἀληθείᾳ σου.",
+  "greek_source": "Swete, The Old Testament in Greek II (Cambridge 1896), p. 370, Ps 113:9",
+  "latin": "Non nobis Domine, non nobis: sed nomini tuo da gloriam.",
+  "latin_source": "Clementine Vulgate, editio princeps (Rome 1592), p. 514, Ps 113:9 (modern spelling of the long s only)",
+  "kjv": "Not unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, and for thy truth's sake.",
+  "kjv_source": "Psalms 115:1, data/kjv.json",
+  "verified_by": "Each language checked against the edition named in its source field, 2026-10-12"
+}

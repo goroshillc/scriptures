@@ -1,0 +1,11 @@
+/target/
+# Downloaded and derived art (fetched from Wikimedia Commons by scripts/fetch-art.sh).
+/crates/scriptures/data/art-cache
+/crates/scriptures/data/raw
+# Build outputs.
+/dist/
+/dist-*/
+/crates/scriptures-app/site
+/crates/scriptures-app/gen/
+/wallpapers/out/
+/crates/scriptures/data/computus.wasm

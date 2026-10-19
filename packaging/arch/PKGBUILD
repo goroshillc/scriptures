@@ -1,0 +1,23 @@
+# Maintainer: Goroshi LLC <https://github.com/goroshillc>
+#
+# The Scriptures from its release .deb. Each GitHub release attaches this PKGBUILD with the
+# version and the .deb's sha256 filled in; use that one. Built here, `SKIP` only means the
+# checksum was not filled in yet.
+pkgname=scriptures-bin
+pkgver=0.1.0
+pkgrel=1
+pkgdesc="The King James Bible with the master engravings, offline"
+arch=('x86_64')
+url="https://github.com/goroshillc/scriptures"
+license=('MIT OR Apache-2.0')
+depends=('cairo' 'desktop-file-utils' 'gdk-pixbuf2' 'glib2' 'gtk3' 'hicolor-icon-theme' 'libsoup3' 'pango' 'webkit2gtk-4.1')
+provides=('scriptures')
+conflicts=('scriptures')
+options=('!strip' '!debug')
+install=${pkgname}.install
+source_x86_64=("${url}/releases/download/v${pkgver}/Scriptures_${pkgver}_amd64.deb")
+sha256sums_x86_64=('SKIP')
+
+package() {
+  tar -xf data.tar.gz -C "${pkgdir}"
+}

@@ -1,0 +1,41 @@
+[package]
+name = "scriptures-app"
+version = "0.1.0"
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+repository.workspace = true
+publish = false
+description = "The Scriptures as a desktop app: the same reader, offline, on Windows, macOS and Linux."
+
+[[bin]]
+name = "scriptures"
+path = "src/main.rs"
+
+[build-dependencies]
+tauri-build = { version = "=2.7.1", features = [] }
+
+[dependencies]
+# Tauri 2 (MIT OR Apache-2.0): the system webview (WebView2, WKWebView, WebKitGTK) around
+# the reader, so the app is a few megabytes of code rather than a bundled browser.
+tauri = { version = "=2.12.1", features = [] }
+tauri-plugin-opener = "=2.7.0"
+# The reader's own host: the same path rules, Content-Security-Policy and file serving
+# the website uses, here answering the app's private scheme instead of a socket.
+scriptures-host = { path = "../scriptures-host" }
+axum.workspace = true
+tower.workspace = true
+http-body-util = "=0.1.5"
+
+[lints.rust]
+unsafe_code = "forbid"
+missing_docs = "deny"
+
+[lints.clippy]
+pedantic = { level = "deny", priority = -1 }
+nursery = { level = "deny", priority = -1 }
+unwrap_used = "deny"
+expect_used = "deny"
+panic = "deny"
+as_conversions = "deny"
+indexing_slicing = "deny"

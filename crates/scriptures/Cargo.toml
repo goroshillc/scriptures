@@ -1,0 +1,47 @@
+[package]
+name = "goroshi-scriptures"
+version = "0.1.0"
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+repository.workspace = true
+publish = false
+description = "The Scriptures: a static, pre-rendered King James reader with resolved cross-references, red letters, the Orthodox lectionary and public-domain master art."
+
+[[bin]]
+name = "goroshi-scriptures"
+path = "src/main.rs"
+
+[dependencies]
+# Every version is exact, so every build resolves the same code (Cargo.lock pins the rest).
+serde = { version = "=1.0.229", features = ["derive"] }
+serde_json = "=1.0.152"
+thiserror = "=2.0.21"
+sha2 = "=0.10.9"
+# The Commons API records each original's sha1; the crisp step proves every downloaded
+# original is the reviewed file by that digest. Same RustCrypto family and lockfile entry.
+sha1 = "=0.10.7"
+ureq = { version = "=3.4.2", default-features = false, features = ["rustls", "gzip"] }
+image = { version = "=0.25.10", default-features = false, features = ["jpeg", "png"] }
+zip = { version = "=8.6.0", default-features = false, features = ["deflate-flate2"] }
+flate2 = "=1.1.10"
+computus = { path = "computus" }
+scripture-search = { path = "../scripture-search" }
+# The Chi Rho emblem (Junicode U+2627, SIL OFL 1.1).
+chi-rho = { path = "../chi-rho" }
+wasm-bindgen-cli-support = "=0.2.129"
+
+[lints.rust]
+unsafe_code = "forbid"
+missing_docs = "deny"
+
+[lints.clippy]
+pedantic = { level = "deny", priority = -1 }
+nursery = { level = "deny", priority = -1 }
+unwrap_used = "deny"
+expect_used = "deny"
+panic = "deny"
+as_conversions = "deny"
+indexing_slicing = "deny"
+module_name_repetitions = "allow"
+

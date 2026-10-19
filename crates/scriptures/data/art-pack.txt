@@ -1,0 +1,6 @@
+# The desktop art pack: crisp.json and the JPEGs the desktop edition uses (scripts/art-pack.sh).
+# Made from the art fetched and derived by scripts/fetch-art.sh; checked by sha256 before use.
+url https://github.com/goroshillc/scriptures/releases/download/art-desktop-v1/scriptures-art-desktop-v1.tar
+sha256 b46915facb607c7360de9af6d039cd6cfb3bb72df77c5ed59dbf9a0327ea3580
+files 650
+bytes 470017024

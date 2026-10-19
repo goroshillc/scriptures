@@ -1,0 +1,6 @@
+{
+  "identifier": "zoom",
+  "description": "Text size: the zoom keys may set the reader's zoom, and nothing else.",
+  "windows": ["main"],
+  "permissions": ["core:webview:allow-set-webview-zoom"]
+}

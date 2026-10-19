@@ -1,0 +1,104 @@
+name: Release
+
+# A tag v* builds the app for Windows, macOS and Linux into a DRAFT release. A maintainer
+# checks the files and publishes it.
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  draft:
+    name: Draft release
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Create the draft (once)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.ref_name }}
+        run: |
+          gh release view "$TAG" >/dev/null 2>&1 ||
+            gh release create "$TAG" --draft --verify-tag \
+              --title "The Scriptures ${TAG#v}" --notes-file docs/RELEASE_NOTES.md
+
+  app:
+    name: App (${{ matrix.name }})
+    needs: draft
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: macOS universal
+            os: macos-14
+            rust_targets: aarch64-apple-darwin x86_64-apple-darwin
+            args: --target universal-apple-darwin
+            files: target/universal-apple-darwin/release/bundle/dmg/*.dmg
+          - name: Windows x64
+            os: windows-2022
+            rust_targets: ""
+            args: ""
+            files: target/release/bundle/nsis/*.exe target/release/bundle/msi/*.msi
+          - name: Linux x64
+            os: ubuntu-22.04
+            rust_targets: ""
+            args: ""
+            files: >-
+              target/release/bundle/appimage/*.AppImage
+              target/release/bundle/deb/*.deb
+              target/release/bundle/rpm/*.rpm
+    runs-on: ${{ matrix.os }}
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: System libraries (Linux)
+        if: runner.os == 'Linux'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libwebkit2gtk-4.1-dev build-essential curl wget file \
+            libxdo-dev libssl-dev libayatana-appindicator3-dev librsvg2-dev
+      - name: Rust (the release pinned in rust-toolchain.toml)
+        run: |
+          rustup toolchain install
+          if [ -n "${{ matrix.rust_targets }}" ]; then rustup target add ${{ matrix.rust_targets }}; fi
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 22
+      - name: The desktop art pack (sha256-checked)
+        run: scripts/art-pack.sh fetch
+      - name: Build the reader and the app
+        env:
+          TAURI: npx --yes @tauri-apps/cli@2.12.1
+        run: scripts/build-app.sh ${{ matrix.args }}
+      - name: Attach the installers to the draft
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.ref_name }}
+        run: gh release upload "$TAG" ${{ matrix.files }} --clobber
+
+  arch:
+    name: Arch Linux PKGBUILD
+    needs: app
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Fill in the release's version and checksum
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.ref_name }}
+        run: |
+          ver="${TAG#v}"
+          deb="Scriptures_${ver}_amd64.deb"
+          gh release download "$TAG" -p "$deb" -D "$RUNNER_TEMP/dl"
+          sum=$(sha256sum "$RUNNER_TEMP/dl/$deb" | cut -d' ' -f1)
+          mkdir -p "$RUNNER_TEMP/arch"
+          sed -e "s/^pkgver=.*/pkgver=${ver}/" \
+              -e "s/^sha256sums_x86_64=.*/sha256sums_x86_64=('${sum}')/" \
+              packaging/arch/PKGBUILD > "$RUNNER_TEMP/arch/PKGBUILD"
+          cp packaging/arch/scriptures-bin.install "$RUNNER_TEMP/arch/"
+          gh release upload "$TAG" "$RUNNER_TEMP/arch/PKGBUILD" \
+            "$RUNNER_TEMP/arch/scriptures-bin.install" --clobber

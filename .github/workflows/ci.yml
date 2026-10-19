@@ -1,0 +1,64 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  checks:
+    name: Format, lints, tests, Deno
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: System libraries for the app (Tauri 2 on Linux)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libwebkit2gtk-4.1-dev build-essential curl wget file \
+            libxdo-dev libssl-dev libayatana-appindicator3-dev librsvg2-dev
+      - name: Rust (the release pinned in rust-toolchain.toml)
+        run: rustup toolchain install
+      - uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: |
+            ~/.cargo/registry/index
+            ~/.cargo/registry/cache
+            target
+          key: checks-${{ runner.os }}-${{ hashFiles('Cargo.lock', 'rust-toolchain.toml') }}
+      - uses: denoland/setup-deno@22d081ff2d3a40755e97629de92e3bcbfa7cf2ed # v2.0.5
+        with:
+          deno-version: 2.9.7
+      - run: cargo fmt --all -- --check
+      - run: cargo clippy --workspace --all-targets --release --locked -- -D warnings
+      - run: cargo test --workspace --release --locked
+      - name: Browser glue (Deno format and lint)
+        working-directory: crates/scriptures
+        run: deno fmt --check && deno lint
+
+  site:
+    name: Build and crawl the desktop edition
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Rust (the release pinned in rust-toolchain.toml)
+        run: rustup toolchain install
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 22
+      - uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        id: art
+        with:
+          path: crates/scriptures/data/art-cache
+          key: art-${{ hashFiles('crates/scriptures/data/art-pack.txt') }}
+      - name: The desktop art pack (sha256-checked)
+        if: steps.art.outputs.cache-hit != 'true'
+        run: scripts/art-pack.sh fetch
+      - name: Build, crawl every link, check search in Rust and WebAssembly
+        run: scripts/build-site.sh desktop "$RUNNER_TEMP/dist-desktop"

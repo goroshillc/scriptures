@@ -1,0 +1,25 @@
+[package]
+name = "chi-rho"
+version = "0.1.0"
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+repository.workspace = true
+publish = false
+description = "The Chi Rho emblem of The Scriptures: U+2627 from Junicode 2.226 (SIL OFL 1.1) within one circle, as inline SVG, a text-size glyph and a light and dark favicon."
+
+# No dependencies: the master SVG is compiled in with include_str!.
+[dependencies]
+
+[lints.rust]
+unsafe_code = "forbid"
+missing_docs = "deny"
+
+[lints.clippy]
+pedantic = { level = "deny", priority = -1 }
+nursery = { level = "deny", priority = -1 }
+unwrap_used = "deny"
+expect_used = "deny"
+panic = "deny"
+as_conversions = "deny"
+indexing_slicing = "deny"
