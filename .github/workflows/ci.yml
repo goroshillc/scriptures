@@ -41,6 +41,8 @@ jobs:
       - name: Browser glue (Deno format and lint)
         working-directory: crates/scriptures
         run: deno fmt --check && deno lint
+      - name: Scripts (ShellCheck)
+        run: shellcheck scripts/*.sh
 
   site:
     name: Build and crawl the desktop edition
@@ -59,6 +61,8 @@ jobs:
           key: art-${{ hashFiles('crates/scriptures/data/art-pack.txt') }}
       - name: The desktop art pack (sha256-checked)
         if: steps.art.outputs.cache-hit != 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: scripts/art-pack.sh fetch
       - name: Build, crawl every link, check search in Rust and WebAssembly
         run: scripts/build-site.sh desktop "$RUNNER_TEMP/dist-desktop"

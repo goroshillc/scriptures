@@ -69,6 +69,8 @@ jobs:
         with:
           node-version: 22
       - name: The desktop art pack (sha256-checked)
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: scripts/art-pack.sh fetch
       - name: Build the reader and the app
         env:

@@ -11,14 +11,24 @@ root=$(cd "$(dirname "$0")/.." && pwd)
 data="$root/crates/scriptures/data"
 target="${CARGO_TARGET_DIR:-$root/target}"
 pin="$data/art-pack.txt"
+sha256() {
+  if command -v sha256sum >/dev/null; then sha256sum "$1"; else shasum -a 256 "$1"; fi
+}
 case "${1:-}" in
   fetch)
     url=$(awk '$1 == "url" {print $2}' "$pin")
     sum=$(awk '$1 == "sha256" {print $2}' "$pin")
     tmp="$target/art-pack-download"
     mkdir -p "$tmp" "$data/art-cache"
-    curl -fL --retry 3 -o "$tmp/pack.tar" "$url"
-    got=$( (command -v sha256sum >/dev/null && sha256sum "$tmp/pack.tar" || shasum -a 256 "$tmp/pack.tar") | awk '{print $1}')
+    if [[ -n "${GH_TOKEN:-}" ]] && command -v gh >/dev/null; then
+      # In CI (and for a private copy of the repository) the token reads the release asset.
+      tag=$(basename "$(dirname "$url")")
+      repo=$(echo "$url" | sed -E 's#https://github.com/([^/]+/[^/]+)/releases/.*#\1#')
+      gh release download "$tag" -R "$repo" -p "$(basename "$url")" -O "$tmp/pack.tar" --clobber
+    else
+      curl -fL --retry 3 -o "$tmp/pack.tar" "$url"
+    fi
+    got=$(sha256 "$tmp/pack.tar" | awk '{print $1}')
     [[ "$got" == "$sum" ]] || { echo "art pack sha256 $got, expected $sum: refusing" >&2; exit 1; }
     tar -xf "$tmp/pack.tar" -C "$data/art-cache"
     echo "art pack verified ($sum) and unpacked into $data/art-cache/crisp"
@@ -38,7 +48,7 @@ case "${1:-}" in
       tar --format ustar --owner=0 --group=0 --numeric-owner \
         -cf "$out" -C "$data/art-cache" -T "$list"
     fi
-    (command -v sha256sum >/dev/null && sha256sum "$out" || shasum -a 256 "$out")
+    sha256 "$out"
     echo "$(wc -l < "$list") files packed"
     ;;
   *)
