@@ -1,13 +1,22 @@
 name: Release
 
-# A tag v* builds the app for Windows, macOS and Linux into a DRAFT release. A maintainer
-# checks the files and publishes it.
+# Builds the app for Windows, macOS and Linux into a DRAFT release; a maintainer checks the
+# files and publishes it. Start it by pushing a tag v*, or from the Actions tab with the tag
+# to draft (the tag is then created on the built commit when the release is published).
 on:
   push:
     tags: ["v*"]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Release tag, for example v0.1.0"
+        required: true
 
 permissions:
   contents: write
+
+env:
+  TAG: ${{ inputs.tag || github.ref_name }}
 
 jobs:
   draft:
@@ -18,10 +27,9 @@ jobs:
       - name: Create the draft (once)
         env:
           GH_TOKEN: ${{ github.token }}
-          TAG: ${{ github.ref_name }}
         run: |
           gh release view "$TAG" >/dev/null 2>&1 ||
-            gh release create "$TAG" --draft --verify-tag \
+            gh release create "$TAG" --draft --target "$GITHUB_SHA" \
               --title "The Scriptures ${TAG#v}" --notes-file docs/RELEASE_NOTES.md
 
   app:
@@ -79,7 +87,6 @@ jobs:
       - name: Attach the installers to the draft
         env:
           GH_TOKEN: ${{ github.token }}
-          TAG: ${{ github.ref_name }}
         run: gh release upload "$TAG" ${{ matrix.files }} --clobber
 
   arch:
@@ -91,7 +98,6 @@ jobs:
       - name: Fill in the release's version and checksum
         env:
           GH_TOKEN: ${{ github.token }}
-          TAG: ${{ github.ref_name }}
         run: |
           ver="${TAG#v}"
           deb="Scriptures_${ver}_amd64.deb"
